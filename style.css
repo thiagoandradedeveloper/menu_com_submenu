@@ -34,3 +34,27 @@ li:hover{
 li:hover > ol{
     display: block;
 }
+
+.containerImg{
+
+}
+img{
+    position: absolute;
+    top: calc(50% - 85px);
+    left: calc(50% - 75px);
+    width: 150px;
+    height: 185px;
+    animation: 2s fly infinite ease-in-out;
+}
+
+@keyframes fly{
+    0%{
+        top: calc(50% - 85px);
+    }
+    50%{
+        top: calc(50% - 100px);
+    }
+    100%{
+        top: calc(50% - 85px);
+    }
+}
