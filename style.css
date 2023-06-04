@@ -1,0 +1,36 @@
+li, ol{
+    background: grey;
+    width: 100px;
+    list-style: none;
+    list-style-position: inside;
+}
+li{
+    padding: 10px;
+    list-style-type:none;
+    display: inline-block;
+    position: relative;
+}
+li::after > ol{
+    content: " \00BB";
+}
+ol{
+    display: none;
+    position: absolute;
+    left: 0px;
+    top: 22px;
+    max-width: 80px;
+}
+ol li{
+    margin-left: -40px;
+}
+ol li ol{
+    top: 0;
+    background: orange;
+    left: 100%;
+}
+li:hover{
+    background: yellow;
+}
+li:hover > ol{
+    display: block;
+}
