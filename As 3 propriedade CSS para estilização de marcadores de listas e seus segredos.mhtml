@@ -1,0 +1,3543 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://maujor.com/tutorial/propriedades-css-para-estilizacao-de-listas.php
+Subject: =?utf-8?Q?As=203=20propriedade=20CSS=20para=20estiliza=C3=A7=C3=A3o=20de?=
+ =?utf-8?Q?=20marcadores=20de=20listas=20e=20seus=20segredos?=
+Date: Sun, 4 Jun 2023 23:33:01 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----"
+
+
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/html
+Content-ID: <frame-4797C2AA2238C8A399E93234045F01F3@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://maujor.com/tutorial/propriedades-css-para-estilizacao-de-listas.php
+
+<!DOCTYPE html><html class=3D"no-js" lang=3D"pt-br"><head><meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"style=
+sheet" type=3D"text/css" href=3D"cid:css-85b5edb1-2217-47c1-8c63-2d5ceea8fe=
+ba@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:cs=
+s-95e6e9ea-b2b5-4dbf-8418-b380793096fc@mhtml.blink" /><link rel=3D"styleshe=
+et" type=3D"text/css" href=3D"cid:css-5958b199-326b-449d-8973-7bd6528e0f65@=
+mhtml.blink" />
+ =20
+  <meta http-equiv=3D"x-ua-compatible" content=3D"ie=3Dedge">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1, shrink-to-fit=3Dno">
+  <title>As 3 propriedade CSS para estiliza=C3=A7=C3=A3o de marcadores de l=
+istas e seus segredos</title>
+  <meta name=3D"robots" content=3D"index,follow,noodp">
+  <meta name=3D"description" content=3D"As 3 propriedade CSS para estiliza=
+=C3=A7=C3=A3o de marcadores de listas apresentadas de maneira f=C3=A1cil de=
+ entender para voc=C3=AA se tornar um especialista no assunto.">
+  <meta name=3D"category" content=3D"css, folhas estilo cascata, tutoriais,=
+ web standards, padr=C3=B5es web, acessibilidade, tableless, desing respons=
+ivo, RWD">
+  <meta name=3D"url" content=3D"https://maujor.com/">
+  <meta name=3D"coverage" content=3D"Worldwide">
+  <meta name=3D"subject" content=3D"Tutoriais sobre Folhas de estilos em Ca=
+scata | Padr=C3=B5es Web | Web Standards | CSS | Design Responsivo| Acessib=
+ilidade">
+  <meta name=3D"abstract" content=3D"Mat=C3=A9rias para iniciantes em CSS e=
+ Padr=C3=B5es Web">
+  <meta name=3D"google-site-verification" content=3D"wq4SHP4NLs9J3Ufym3cbEb=
+n4erlMh-DO8LpIC3J8aSE">
+  <meta name=3D"theme-color" content=3D"#f8f8f8">
+<!-- Redes Sociais -->
+  <meta itemprop=3D"name" content=3D"As 3 propriedade CSS para estiliza=C3=
+=A7=C3=A3o de marcadores de listas e seus segredos">
+  <meta itemprop=3D"description" content=3D"As 3 propriedade CSS para estil=
+iza=C3=A7=C3=A3o de marcadores de listas apresentadas de maneira f=C3=A1cil=
+ de entender para voc=C3=AA se tornar um especialista no assunto.">
+  <meta itemprop=3D"image" content=3D"https://maujor.com/imagens/oglisttut.=
+gif">
+<!-- Facebook ID para moderar -->
+<meta property=3D"fb:app_id" content=3D"188478661189217">
+<!-- para o Twitter Card-->
+  <meta name=3D"twitter:card" content=3D"summary">
+  <meta name=3D"twitter:site" content=3D"@maujor">
+  <meta name=3D"twitter:title" content=3D"As 3 propriedade CSS para estiliz=
+a=C3=A7=C3=A3o de marcadores de listas e seus segredos">
+  <meta name=3D"twitter:description" content=3D"As 3 propriedade CSS para e=
+stiliza=C3=A7=C3=A3o de marcadores de listas apresentadas de maneira f=C3=
+=A1cil de entender para voc=C3=AA se tornar um especialista no assunto.">
+  <meta name=3D"twitter:creator" content=3D"@maujor">
+  <!-- imagens largas para o Twitter Summary Card precisam ter pelo menos 2=
+80x150px -->
+  <meta name=3D"twitter:image" content=3D"https://maujor.com/imagens/oglist=
+tut.gif">
+  <meta property=3D"og:url" content=3D"https://maujor.com/tutorial/propried=
+ades-css-para-estilizacao-de-listas.php">
+  <meta property=3D"og:title" content=3D"As 3 propriedade CSS para estiliza=
+=C3=A7=C3=A3o de marcadores de listas e seus segredos">
+  <meta property=3D"og:description" content=3D"As 3 propriedade CSS para es=
+tiliza=C3=A7=C3=A3o de marcadores de listas apresentadas de maneira f=C3=A1=
+cil de entender para voc=C3=AA se tornar um especialista no assunto.">
+  <meta property=3D"og:image" content=3D"https://maujor.com/imagens/oglistt=
+ut.gif">
+<!-- FIM Redes Sociais -->
+<!-- Google Fonts -->
+<link rel=3D"preconnect" href=3D"https://fonts.googleapis.com/">
+  <link rel=3D"preconnect" href=3D"https://fonts.gstatic.com/" crossorigin=
+=3D"">
+  <link href=3D"https://fonts.googleapis.com/css2?family=3DFira+Code&amp;fa=
+mily=3DSource+Sans+Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=3DRobot=
+o+Slab:wght@300;400;500;600&amp;display=3Dswap" rel=3D"stylesheet">
+<!-- FIM Google Fonts -->
+<!-- ICON -->
+  <link rel=3D"apple-touch-icon-precomposed" sizes=3D"76x76" href=3D"https:=
+//maujor.com/imagens/touch/ios/ios-appicon-76-76.png">
+  <link rel=3D"apple-touch-icon-precomposed" sizes=3D"120x120" href=3D"http=
+s://maujor.com/imagens/touch/ios/ios-appicon-120-120.png">
+  <link rel=3D"apple-touch-icon-precomposed" sizes=3D"152x152" href=3D"http=
+s://maujor.com/imagens/touch/ios/ios-appicon-152-152.png">
+  <link rel=3D"apple-touch-icon-precomposed" sizes=3D"180x180" href=3D"http=
+s://maujor.com/imagens/touch/ios/ios-appicon-180-180.png">
+  <link rel=3D"apple-touch-icon-precomposed" sizes=3D"1024x1024" href=3D"ht=
+tps://maujor.com/imagens/touch/ios/ios-appicon-1024-1024.png">
+<!-- Favicon -->
+  <link rel=3D"shortcut icon" href=3D"https://maujor.com/favicon16x16.png" =
+type=3D"image/x-icon">
+<!-- FIM ICON -->
+  <!-- PWA Manifest -->
+  <link rel=3D"manifest" href=3D"https://maujor.com/manifest.json">
+  <!-- Checar e Registar Service Worker -->
+ =20
+<!-- Estilos -->
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://maujor.com/css/e=
+stilos.css?2128164102">
+<!-- code highlighter -->
+<link rel=3D"alternate" type=3D"application/rss+xml" title=3D"RSS2.0 - Novi=
+dades no site do maujor" href=3D"https://maujor.com/rss.xml">
+
+
+<!-- FIM Estilos -->
+
+</head>
+<body id=3D"listtut" inject_svd=3D"true">
+  <div id=3D"skip"><a href=3D"https://maujor.com/tutorial/propriedades-css-=
+para-estilizacao-de-listas.php#skip-aqui">Pular para navega=C3=A7=C3=A3o</a=
+></div>
+  <header class=3D"header" id=3D"header">
+    <a href=3D"https://maujor.com/">
+      <svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"254" height=3D"85"=
+ viewBox=3D"0 0 254.00001 85">
+          <title>Logo do site</title>
+          <desc>Silhueta da face do Maujor seguida do texto Maujor o dinoss=
+auro das CSS</desc>
+          <path fill=3D"none" d=3D"M0-1h254v82H0z"></path>
+          <path d=3D"M41.385 36.666c-.844-7.715.04-14.468-6.585-18.11-8.73-=
+4.802-22.243-2.653-29.513 3.772-3.588 3.17-4.638 8.632-4 12.768 2.24 14.522=
+ 3.184 13.195 9.66 24.188 2.385 4.053.29 6.627 1.98 8.815 2.646 3.425 8.022=
+ 4.193 9.86 4.182 3.17-.02 13.556-1.092 11.355-9.113-1.052-3.835 9.462-12.1=
+57 7.243-26.504z" fill=3D"#c7b299"></path>
+          <path d=3D"M32.775 49.68c0 .684 1.617 2.166.242 2.648-1.693.593-6=
+.658.116-9.472.116-3.023 0-8.135.485-9.817-.186-1.154-.463.59-1.957.59-2.57=
+8 0-1.525 4.13-1.612 9.228-1.612s9.23.086 9.23 1.61z" fill=3D"#f2f2f2"></pa=
+th>
+          <path d=3D"M35.705 23.38s-22.027.474-29.468 3.652c-1.19-.957-3.74=
+3-1.834-3.743-1.834s-1.056-1.923 3.302-6.37c4.357-4.45 24.29-7.587 27.07-6.=
+225 4.094 2.005 5.468 3.51 5.243 7.08-.226 3.572-2.405 3.698-2.405 3.698z" =
+fill=3D"#e4e1da"></path>
+          <path d=3D"M33.262 21.998s5.106 4.286 4.578 9.048c-.59 5.32 2.51 =
+11.278 2.51 11.278s8.88-14.79-2.692-23.498c-2.055 1.95-4.396 3.172-4.396 3.=
+172zM4.296 41.28S-1.086 34.49.198 28.57c1.283-5.92 3.314-6.653 3.314-6.653s=
+3.87.216 4.484 1.15c-3.17 4.01-3.7 18.214-3.7 18.214z" fill=3D"#e4e1da"></p=
+ath>
+          <path d=3D"M37.035 61.754c-3.362-.67-2.44 3.96-2.44 3.96-1.9 2.09=
+5-8.95 3.927-10.23 6.568 4.955-.24 12.298-3.41 14.845-4.503-.534-2.23-.138-=
+5.676-2.175-6.026zM9.638 61.754c3.36-.67 2.44 3.96 2.44 3.96 1.9 2.095 8.95=
+ 3.927 10.228 6.568-4.953-.24-12.296-3.41-14.843-4.503.533-2.23.137-5.676 2=
+.175-6.026z" fill=3D"#000"></path>
+          <g>
+            <path d=3D"M48.67 23.877h7.96l6.578 12.132 6.43-12.133h7.96V48.=
+85h-7.96V35.512l-4.86 8.728h-3.252l-4.897-8.728V48.85h-7.962V23.877zM87.58 =
+23.877h11.626l7.626 24.973h-9.008l-1.01-4.788h-6.802l-1.084 4.788h-8.635l7.=
+288-24.973zm8.336 15.715L93.41 28.666l-2.577 10.926h5.083zM121.465 42.856c1=
+.433 0 2.52-.37 3.262-1.11.74-.74 1.113-1.823 1.113-3.254V23.877h8.634v14.6=
+15c0 1.277-.178 2.433-.533 3.468-.354 1.034-.84 1.957-1.456 2.767-.617.81-1=
+.342 1.51-2.18 2.102-.833.59-1.734 1.078-2.7 1.462-.964.385-1.97.67-3.017.8=
+52-1.047.183-2.087.275-3.122.275-3.55 0-6.56-.924-9.027-2.768-2.654-1.963-3=
+.98-4.683-3.98-8.16V23.877h8.634v14.615c0 2.91 1.458 4.364 4.373 4.364zM139=
+.575 44.558c1.695 0 2.542-1.005 2.542-3.015V23.877h8.223v17.666c0 1.395-.2 =
+2.645-.597 3.75-.4 1.107-.97 2.043-1.71 2.812-.742.77-1.645 1.358-2.71 1.76=
+6-1.065.408-2.258.612-3.58.612-2.366 0-4.56-.638-6.578-1.915l1.794-4.505c1.=
+008.33 1.88.496 2.615.496zM153.855 36.4c0-3.607 1.21-6.645 3.626-9.118 2.58=
+-2.636 6.07-3.955 10.467-3.955 2.144 0 4.08.33 5.813.985 1.732.657 3.21 1.5=
+64 4.43 2.723 1.22 1.16 2.16 2.54 2.822 4.14.66 1.603.99 3.344.99 5.225 0 1=
+.134-.137 2.246-.41 3.334-.275 1.09-.683 2.113-1.225 3.077-.542.965-1.21 1.=
+853-2.01 2.662-.797.81-1.716 1.507-2.755 2.093-1.04.584-2.2 1.04-3.477 1.36=
+5-1.277.325-2.668.488-4.177.488-1.544 0-2.962-.167-4.25-.498-1.29-.33-2.458=
+-.792-3.505-1.383-1.047-.59-1.965-1.294-2.756-2.11-.79-.816-1.452-1.706-1.9=
+82-2.67s-.927-1.983-1.196-3.06c-.27-1.075-.405-2.175-.405-3.297zm14.092 6.4=
+2c.985 0 1.823-.198 2.514-.595.692-.395 1.26-.903 1.702-1.524.442-.62.767-1=
+.315.972-2.084.205-.77.308-1.52.308-2.253 0-.958-.127-1.835-.383-2.633s-.62=
+4-1.49-1.104-2.075c-.48-.586-1.058-1.05-1.738-1.393-.68-.343-1.436-.532-2.2=
+7-.567-.997.024-1.844.236-2.542.638-.698.402-1.268.92-1.71 1.552-.443.633-.=
+767 1.343-.972 2.13-.205.786-.308 1.568-.308 2.348 0 .923.128 1.777.382 2.5=
+63.256.787.623 1.467 1.103 2.04.48.574 1.064 1.027 1.748 1.358.686.33 1.452=
+.496 2.3.496zM209.158 48.78c-1.632.425-2.81.64-3.532.64-4.623 0-7.526-2-8.7=
+1-5.997l-1.046-4.044h-1.794v9.47h-8.373V23.88h11.7c1.52 0 2.946.162 4.28.48=
+7 1.333.326 2.494.798 3.485 1.42.99.62 1.77 1.385 2.337 2.295.566.91.85 1.9=
+57.85 3.14 0 .875-.115 1.658-.345 2.35-.23.69-.564 1.312-1 1.862-.436.55-.9=
+7 1.038-1.598 1.464-.63.425-1.342.804-2.14 1.135l.168.87c.038.2.075.373.112=
+.514l.094.355.205.762c.15.45.322.83.514 1.144.194.314.44.567.74.763.298.193=
+.67.336 1.11.425.443.088.983.133 1.618.133.1 0 .257-.012.476-.036.218-.023.=
+502-.06.85-.105v5.923zm-8.467-17.206c0-.46-.1-.842-.307-1.144-.205-.3-.49-.=
+538-.85-.71-.362-.17-.785-.288-1.27-.353-.487-.065-1.01-.1-1.57-.1h-2.618v5=
+.003h1.458l1.234-.053c.486-.036.962-.098 1.43-.186.467-.088.888-.23 1.26-.4=
+26.374-.194.674-.455.898-.78.224-.324.336-.74.336-1.25zM48.738 57.618c0-1.4=
+25.478-2.626 1.433-3.602 1.02-1.04 2.398-1.562 4.136-1.562.847 0 1.612.13 2=
+.296.39.685.258 1.268.617 1.75 1.074.48.457.854 1.003 1.114 1.635.26.634.39=
+ 1.322.39 2.065 0 .448-.053.888-.162 1.317-.11.43-.27.835-.483 1.215-.214.3=
+8-.477.732-.793 1.05-.316.32-.678.597-1.09.828-.41.232-.867.41-1.372.54-.50=
+4.128-1.054.193-1.65.193-.61 0-1.17-.065-1.68-.196-.51-.13-.97-.314-1.385-.=
+546-.413-.234-.777-.512-1.09-.834-.31-.322-.572-.674-.782-1.054-.21-.38-.36=
+7-.784-.472-1.21-.105-.424-.158-.86-.158-1.302zm5.568 2.536c.388 0 .72-.078=
+.994-.235.272-.158.496-.36.67-.603.176-.247.305-.52.384-.824.082-.303.122-.=
+6.122-.89 0-.378-.05-.725-.152-1.04-.1-.315-.246-.59-.434-.82-.19-.233-.418=
+-.415-.688-.55-.268-.136-.566-.21-.896-.225-.393.01-.73.093-1.005.252-.275.=
+16-.5.364-.674.613-.175.25-.303.53-.384.84-.082.312-.122.622-.122.93 0 .363=
+.05.7.152 1.012.1.31.246.58.434.805.19.228.42.405.69.537.273.132.576.197.91=
+.197zM67.24 55.243c.572 0 1.064.112 1.478.336.413.224.748.595 1.005 1.113v-=
+3.615l3.19-.448v9.907h-3.19v-1.33c-.237.48-.56.84-.968 1.08-.408.242-.918.3=
+62-1.53.362-.525 0-1.012-.103-1.46-.305-.45-.205-.836-.476-1.164-.817-.326-=
+.34-.583-.735-.77-1.18-.187-.447-.28-.914-.28-1.4 0-.522.1-1.01.298-1.464.2=
+-.453.47-.846.81-1.177.34-.33.73-.59 1.177-.782.445-.187.914-.282 1.406-.28=
+2zm2.482 3.65c-.01-.188-.057-.364-.14-.533-.084-.168-.194-.313-.33-.438-.13=
+5-.123-.29-.22-.467-.293-.178-.074-.362-.11-.554-.11-.216 0-.415.038-.6.117=
+-.185.076-.343.18-.476.31-.134.132-.238.283-.314.456-.077.173-.115.354-.115=
+.546 0 .204.04.393.12.566.083.174.192.323.33.452.14.13.3.23.48.302.183.072.=
+374.11.576.11.213 0 .41-.042.592-.12.182-.08.34-.185.472-.316.133-.13.237-.=
+282.314-.455.077-.174.115-.353.115-.54v-.057zM74.373 52.965c0-.21.048-.404.=
+145-.582.095-.177.223-.33.38-.46.156-.127.34-.227.545-.297.207-.07.42-.105.=
+642-.105.257 0 .488.044.698.13.21.088.387.2.535.337.148.138.262.292.345.462=
+.08.17.12.34.12.514 0 .215-.045.41-.14.588-.093.178-.22.33-.375.458-.158.13=
+-.34.23-.543.302-.204.072-.417.108-.64.108-.24 0-.464-.037-.675-.112-.21-.0=
+75-.388-.178-.542-.313-.153-.132-.273-.286-.36-.462-.09-.17-.135-.363-.135-=
+.568zm4.725 9.193c-.596.327-1.255.49-1.978.49-.428 0-.81-.068-1.144-.203-.3=
+35-.136-.616-.328-.847-.578-.23-.25-.402-.552-.52-.908-.12-.356-.178-.75-.1=
+78-1.185v-4.428h3.204v4.288c0 .23.065.4.192.514.128.114.29.17.487.17s.404-.=
+055.62-.167l.163 2.005zM79.977 55.453h3.043v1.465c.295-.566.675-.987 1.14-1=
+.26.464-.277 1.01-.414 1.636-.414.502 0 .945.09 1.33.266.382.178.707.428.97=
+.754.264.324.462.715.6 1.17.134.455.2.96.2 1.517v3.588h-3.173v-3.882c0-.187=
+-.02-.36-.055-.518-.038-.16-.097-.296-.177-.41-.082-.114-.183-.203-.307-.26=
+7-.123-.06-.272-.093-.45-.093-.216 0-.415.05-.598.15-.182.102-.34.224-.475.=
+37-.136.145-.246.294-.33.45-.083.158-.138.292-.162.403v3.798h-3.19v-7.085zM=
+89.996 58.935c.024-.603.156-1.133.394-1.59.24-.457.556-.843.95-1.156.393-.3=
+15.85-.55 1.37-.71.52-.158 1.07-.237 1.658-.237.64 0 1.225.09 1.756.273.532=
+.183.99.435 1.374.76.383.325.68.714.893 1.167.214.453.32.95.32 1.493 0 .44-=
+.06.836-.182 1.19-.12.357-.285.67-.49.944-.208.272-.45.51-.732.71-.28.203-.=
+583.366-.908.495-.325.13-.66.223-1.007.284-.346.06-.692.09-1.036.09-.65 0-1=
+.24-.09-1.776-.27-.534-.18-.992-.432-1.377-.76-.383-.327-.68-.718-.888-1.17=
+4-.21-.456-.316-.96-.316-1.51zm2.953 0c0 .262.04.49.12.687.082.196.19.36.32=
+2.49.134.13.287.23.458.294.172.065.346.098.524.098.177 0 .352-.033.52-.098.=
+17-.066.322-.164.457-.294.137-.13.246-.295.326-.49.083-.197.123-.425.123-.6=
+87 0-.262-.04-.49-.124-.687-.08-.196-.19-.358-.325-.486-.134-.13-.286-.227-=
+.456-.292-.17-.065-.344-.098-.52-.098-.178 0-.352.033-.524.098-.172.065-.32=
+4.163-.458.292-.133.128-.24.29-.32.486-.083.197-.123.425-.123.687zM103.123 =
+57.03c-.6 0-.9.097-.9.294 0 .075.02.14.065.2.045.058.104.11.178.155.074.043=
+.155.08.244.107.09.028.177.047.266.056.39.056.75.14 1.082.257.33.114.62.267=
+.863.458.246.19.437.426.577.705.14.277.21.607.21.99 0 .378-.07.716-.21 1.01=
+3-.14.297-.336.547-.587.753-.25.204-.546.36-.886.468-.34.107-.71.16-1.107.1=
+6-.644 0-1.234-.027-1.767-.083-.535-.056-1.023-.177-1.467-.364l.34-1.652c.1=
+63.042.305.08.424.112.122.033.22.056.3.07l.28.053c.114.022.237.04.366.06.13=
+.02.263.035.395.05.133.013.253.02.36.02.503 0 .754-.112.754-.337-.014-.09-.=
+053-.167-.114-.235-.062-.067-.14-.125-.233-.175-.094-.048-.2-.09-.323-.122-=
+.12-.033-.247-.06-.38-.085-.383-.07-.72-.163-1.014-.28-.294-.118-.538-.267-=
+.735-.452-.198-.185-.346-.41-.446-.68-.1-.27-.152-.587-.152-.957.02-.42.113=
+-.78.28-1.075.17-.298.394-.54.68-.73.286-.19.62-.326 1.01-.413.385-.086.807=
+-.13 1.265-.13.477 0 .928.025 1.35.074.423.05.82.158 1.19.326l-.326 1.71c-.=
+738-.216-1.348-.323-1.83-.323zM110.115 57.03c-.6 0-.9.097-.9.294 0 .075.02.=
+14.066.2.045.058.104.11.178.155.074.043.156.08.244.107.09.028.178.047.267.0=
+56.387.056.748.14 1.08.257.332.114.62.267.863.458.245.19.437.426.576.705.14=
+.277.21.607.21.99 0 .378-.07.716-.21 1.013-.14.297-.337.547-.587.753-.252.2=
+04-.546.36-.887.468-.34.107-.708.16-1.107.16-.645 0-1.234-.027-1.768-.083-.=
+535-.056-1.023-.177-1.466-.364l.34-1.652c.163.042.303.08.424.112.12.033.22.=
+056.3.07l.28.053c.114.022.236.04.365.06.13.02.263.035.395.05.133.013.254.02=
+.362.02.502 0 .754-.112.754-.337-.015-.09-.053-.167-.114-.235-.063-.067-.14=
+-.125-.234-.175-.094-.048-.2-.09-.322-.122-.12-.033-.247-.06-.38-.085-.383-=
+.07-.722-.163-1.014-.28-.293-.118-.537-.267-.735-.452-.197-.185-.345-.41-.4=
+46-.68-.1-.27-.15-.587-.15-.957.02-.42.112-.78.28-1.075.168-.298.393-.54.68=
+-.73.286-.19.62-.326 1.008-.413.386-.086.81-.13 1.266-.13.478 0 .93.025 1.3=
+5.074.424.05.82.158 1.19.326l-.325 1.71c-.742-.216-1.353-.323-1.835-.323zM1=
+19.647 61.205c-.236.467-.555.825-.96 1.07-.404.25-.91.372-1.52.372-.494 0-.=
+963-.094-1.412-.284-.447-.19-.84-.45-1.18-.785-.34-.334-.61-.73-.813-1.187-=
+.202-.457-.302-.954-.302-1.492 0-.533.102-1.023.305-1.472.205-.448.478-.835=
+.82-1.16.343-.325.736-.576 1.182-.757.445-.18.912-.27 1.4-.27.25 0 .496.03.=
+74.095.244.062.476.163.695.3.22.138.418.312.597.522.18.21.33.462.446.757V55=
+.24h3.175v7.294h-3.174v-1.33zm0-2.312c-.01-.188-.057-.364-.14-.533-.084-.16=
+8-.194-.313-.33-.438-.135-.123-.29-.22-.468-.293-.178-.074-.362-.11-.554-.1=
+1-.217 0-.418.038-.6.117-.187.076-.346.18-.482.307-.135.13-.242.28-.32.452-=
+.08.173-.12.356-.12.553 0 .204.043.395.126.57.084.176.196.326.336.452s.3.22=
+5.483.298c.182.072.373.11.575.11.207 0 .398-.038.575-.114.178-.075.332-.175=
+.465-.3.133-.126.24-.273.317-.438.08-.166.124-.34.133-.522v-.113zM127.407 5=
+9.55c0 .128.025.244.078.347.05.107.122.196.213.27.092.076.198.134.318.176.1=
+2.043.247.064.38.064.128 0 .25-.022.362-.066.113-.045.212-.106.295-.182.084=
+-.078.15-.167.2-.27.05-.104.074-.216.074-.336v-4.204h3.056v4.106c0 .496-.1.=
+94-.303 1.336-.202.394-.48.73-.84 1.004-.355.276-.777.486-1.264.635-.487.14=
+5-1.02.22-1.595.22-.566 0-1.097-.072-1.595-.215-.496-.143-.93-.35-1.3-.623-=
+.368-.274-.66-.608-.875-1.005-.213-.397-.32-.848-.32-1.353v-4.106h3.115v4.2=
+04zM133.844 55.453h3.19v1.465c.24-.58.562-1.003.964-1.27.4-.27.862-.404 1.3=
+84-.404l.443 2.346c-.96 0-1.665.098-2.116.29-.45.196-.676.505-.676.93v3.727=
+h-3.19v-7.084zM140.224 58.935c.024-.603.156-1.133.394-1.59.24-.457.556-.843=
+.95-1.156.393-.315.85-.55 1.37-.71.518-.158 1.07-.237 1.657-.237.64 0 1.226=
+.09 1.757.273.53.183.99.435 1.373.76.385.325.682.714.894 1.167.21.453.317.9=
+5.317 1.493 0 .44-.06.836-.182 1.19-.12.357-.284.67-.49.944-.207.272-.45.51=
+-.73.71-.282.203-.584.366-.91.495-.325.13-.66.223-1.007.284-.348.06-.693.09=
+-1.038.09-.65 0-1.24-.09-1.775-.27-.534-.18-.993-.432-1.377-.76-.383-.328-.=
+68-.718-.89-1.174-.21-.456-.314-.96-.314-1.51zm2.953 0c0 .262.04.49.122.687=
+.08.196.187.36.32.49.132.13.285.23.457.294.172.065.346.098.524.098.178 0 .3=
+52-.033.52-.098.17-.066.323-.164.458-.294.136-.13.245-.295.324-.49.082-.197=
+.123-.425.123-.687 0-.262-.04-.49-.123-.687-.08-.196-.19-.358-.324-.486-.13=
+5-.13-.287-.227-.458-.292-.17-.065-.342-.098-.52-.098-.177 0-.35.033-.523.0=
+98-.173.065-.325.163-.458.292-.134.128-.242.29-.32.486-.083.197-.123.425-.1=
+23.687zM156.23 55.243c.57 0 1.063.112 1.477.336.413.224.748.595 1.005 1.113=
+v-3.615l3.19-.448v9.907h-3.19v-1.33c-.237.48-.56.84-.968 1.08-.407.242-.918=
+.362-1.528.362-.526 0-1.013-.103-1.462-.305-.448-.205-.836-.476-1.163-.817-=
+.326-.34-.584-.735-.77-1.18-.188-.447-.282-.914-.282-1.4 0-.522.1-1.01.3-1.=
+464.2-.453.468-.846.81-1.177.34-.33.73-.59 1.176-.782.445-.187.914-.282 1.4=
+06-.282zm2.48 3.65c-.01-.188-.056-.364-.14-.533-.083-.168-.193-.313-.328-.4=
+38-.135-.123-.29-.22-.468-.293-.178-.074-.36-.11-.554-.11-.216 0-.416.038-.=
+602.117-.184.076-.342.18-.475.31-.133.132-.238.283-.314.456-.078.173-.116.3=
+54-.116.546 0 .204.04.393.12.566.084.174.193.323.33.452.138.13.298.23.48.30=
+2.182.072.375.11.575.11.212 0 .407-.042.59-.12.183-.08.34-.185.472-.316.133=
+-.13.238-.282.313-.455.077-.174.115-.353.115-.54v-.057zM169.262 61.205c-.23=
+6.467-.555.825-.96 1.07-.404.25-.91.372-1.52.372-.493 0-.964-.094-1.41-.284=
+-.45-.19-.843-.45-1.183-.785-.34-.334-.61-.73-.813-1.187-.202-.457-.303-.95=
+4-.303-1.492 0-.533.102-1.023.306-1.472.205-.448.478-.835.82-1.16.343-.325.=
+736-.576 1.182-.757.445-.18.912-.27 1.4-.27.25 0 .496.03.74.095.244.062.476=
+.163.696.3.218.138.417.312.596.522.18.21.33.462.447.757V55.24h3.176v7.294h-=
+3.175v-1.33zm0-2.312c-.01-.188-.057-.364-.14-.533-.084-.168-.194-.313-.33-.=
+438-.135-.123-.29-.22-.468-.293-.177-.074-.362-.11-.553-.11-.216 0-.417.038=
+-.6.117-.186.076-.345.18-.48.307-.136.13-.243.28-.32.452-.08.173-.12.356-.1=
+2.553 0 .204.043.395.126.57.084.176.196.326.336.452s.3.225.483.298c.183.072=
+.374.11.576.11.208 0 .4-.038.576-.114.178-.075.332-.175.465-.3.134-.127.24-=
+.273.32-.438.078-.166.123-.34.132-.522v-.113zM177.243 57.03c-.6 0-.9.097-.9=
+.294 0 .075.022.14.066.2.043.058.102.11.176.155.074.043.156.08.244.107.09.0=
+28.178.047.267.056.388.056.75.14 1.08.257.333.114.62.267.864.458.247.19.438=
+.426.577.705.142.277.21.607.21.99 0 .378-.068.716-.21 1.013-.14.297-.335.54=
+7-.586.753-.25.204-.545.36-.885.468-.34.107-.71.16-1.108.16-.644 0-1.233-.0=
+27-1.767-.083-.534-.056-1.023-.177-1.466-.364l.34-1.652c.163.042.304.08.424=
+.112.12.033.22.056.3.07l.28.053c.114.022.236.04.366.06.13.02.263.035.395.05=
+.132.013.253.02.36.02.502 0 .754-.112.754-.337-.015-.09-.053-.167-.114-.235=
+-.063-.067-.14-.125-.234-.175-.094-.048-.2-.09-.322-.122-.12-.033-.247-.06-=
+.38-.085-.383-.07-.722-.163-1.013-.28-.293-.118-.537-.267-.735-.452-.197-.1=
+85-.345-.41-.445-.68-.102-.27-.153-.587-.153-.957.02-.42.113-.78.28-1.075.1=
+7-.298.394-.54.68-.73.287-.19.622-.326 1.008-.413.387-.086.81-.13 1.266-.13=
+.48 0 .93.025 1.352.074.423.05.82.158 1.19.326l-.327 1.71c-.74-.216-1.35-.3=
+23-1.832-.323zM189.49 60.168c.174 0 .333-.008.48-.024.15-.017.295-.04.44-.0=
+74.145-.033.294-.075.446-.127.153-.05.322-.112.51-.182l.412 2.278c-.876.48-=
+1.83.722-2.864.722-1.463 0-2.715-.468-3.758-1.402-1.092-.972-1.647-2.227-1.=
+662-3.763 0-.747.135-1.436.406-2.067.27-.63.644-1.173 1.122-1.63.477-.453 1=
+.04-.81 1.69-1.064.65-.254 1.353-.38 2.112-.38 1.077 0 2.058.238 2.94.714l-=
+.4 2.228c-.723-.262-1.378-.392-1.963-.392-.82 0-1.446.225-1.87.676-.426.45-=
+.64 1.084-.64 1.902 0 .406.06.77.175 1.09.115.32.284.59.505.813.222.222.493=
+.39.815.508.326.117.693.175 1.106.175zM200.67 59.313c0 .588-.095 1.1-.285 1=
+.532-.19.43-.46.79-.816 1.07-.354.284-.79.495-1.303.635-.515.14-1.097.21-1.=
+746.21-1.44 0-2.707-.247-3.794-.742.3-.71.537-1.36.71-1.948.03-.098.058-.18=
+3.088-.253l1.107.26.43.09c.152.034.303.063.456.09.153.024.298.046.435.065.1=
+4.02.26.03.363.03.168 0 .328-.007.482-.02.157-.01.293-.038.41-.08.118-.042.=
+214-.103.284-.182.07-.08.107-.188.107-.323 0-.163-.08-.3-.244-.413-.163-.11=
+2-.366-.213-.608-.3-.245-.09-.512-.17-.802-.243-.29-.072-.56-.15-.813-.234-=
+.35-.103-.674-.244-.975-.42-.3-.178-.56-.388-.778-.635-.22-.243-.39-.52-.51=
+4-.832-.123-.312-.184-.654-.184-1.026 0-2.13 1.348-3.196 4.045-3.196 1.28 0=
+ 2.47.253 3.573.757l-.812 2.145c-.478-.118-.856-.21-1.132-.277-.28-.067-.5-=
+.117-.67-.15-.167-.033-.3-.054-.397-.063-.1-.01-.202-.015-.31-.015h-.252c-.=
+054 0-.1 0-.138-.004l-.106-.003c-.22 0-.39.032-.51.096-.117.063-.176.193-.1=
+76.39 0 .293.27.517.812.67 1.334.296 2.343.723 3.03 1.284.69.56 1.034 1.24 =
+1.034 2.04zM209.544 59.313c0 .588-.095 1.1-.285 1.532-.19.43-.462.79-.817 1=
+.07-.354.284-.79.495-1.302.635-.514.14-1.096.21-1.746.21-1.442 0-2.707-.247=
+-3.794-.742.3-.71.537-1.36.71-1.948.028-.098.058-.183.087-.253l1.108.26.427=
+.09c.154.034.306.063.458.09.153.024.298.046.435.065.138.02.26.03.36.03.17 0=
+ .33-.007.484-.02.155-.01.292-.038.41-.08.117-.042.212-.103.283-.182.072-.0=
+8.108-.188.108-.323 0-.163-.08-.3-.243-.413-.163-.112-.366-.213-.61-.3-.244=
+-.09-.51-.17-.8-.243-.29-.072-.56-.15-.813-.234-.348-.103-.674-.244-.975-.4=
+2-.302-.178-.56-.388-.78-.635-.22-.243-.39-.52-.513-.832-.123-.312-.185-.65=
+4-.185-1.026 0-2.13 1.35-3.196 4.046-3.196 1.28 0 2.47.253 3.574.757l-.812 =
+2.145c-.478-.118-.856-.21-1.133-.277-.28-.067-.5-.117-.668-.15-.17-.033-.30=
+3-.054-.4-.063-.098-.01-.2-.015-.31-.015h-.252c-.053 0-.1 0-.137-.004-.035-=
+.002-.07-.003-.106-.003-.222 0-.39.032-.51.096-.117.063-.176.193-.176.39 0 =
+.293.27.517.812.67 1.334.296 2.344.723 3.032 1.284.69.56 1.032 1.24 1.032 2=
+.04z" fill=3D"#000"></path>
+            <path d=3D"M226.393 23.556a7.32 7.32 0 1 1-14.64 0 7.32 7.32 0 =
+1 1 14.64 0z" fill=3D"none" stroke=3D"#000" stroke-width=3D"1.6097740299999=
+999"></path>
+            <path d=3D"M223.053 27.53c-.543.142-.935.213-1.175.213-1.537 0-=
+2.503-.664-2.896-1.993l-.348-1.345h-.597v3.15h-2.784V19.25h3.89c.506 0 .98.=
+054 1.424.162.443.108.83.265 1.16.47.33.208.587.463.776.765.188.303.283.65.=
+283 1.044 0 .292-.038.553-.115.783-.076.23-.187.436-.33.62-.146.182-.324.34=
+4-.533.486-.21.14-.446.266-.712.376l.056.29c.014.066.026.123.04.17.01.048.0=
+2.087.03.118l.068.254c.05.15.107.276.17.38.065.105.147.19.246.254.1.065.223=
+.112.37.142.147.03.327.044.538.044.033 0 .085-.004.158-.012s.167-.02.283-.0=
+35v1.97zm-2.816-5.72c0-.154-.034-.28-.102-.38-.07-.102-.163-.18-.283-.237-.=
+12-.057-.26-.096-.423-.118-.162-.022-.336-.033-.523-.033h-.87v1.664h.485l.4=
+1-.018c.162-.012.32-.033.476-.062.155-.03.295-.077.42-.142.123-.064.223-.15=
+.298-.26.074-.107.11-.245.11-.415z" fill=3D"#000"></path>
+          </g>
+      </svg>
+    </a>
+    <!-- <div id=3D"tema" style=3D"cursor: pointer;display: inline-block;fo=
+nt-size:var(--fs-md);">=F0=9F=8C=9E</div> -->
+  </header>
+  <!-- extra1 -->
+  <div class=3D"wrapper cf">
+    <div class=3D"add-topo">
+      <!-- Banner topo -->
+    </div>
+    <!-- extra2 -->
+<aside class=3D"chamada">
+ =20
+  <div class=3D"inner-chamada">
+    <div class=3D"abre-chamada">=E2=96=BC</div>
+    <h2>Tutorial recomendado</h2>
+    <h3>
+      Guia definitivo das pseudoclasses e pseudoelementos das CSS    </h3>
+    <p style=3D"text-align:center; transform: scale(2)">=F0=9F=93=9A =F0=9F=
+=93=96 =F0=9F=93=9A</p>
+    <p>
+      As 47 pseudoclasses e pseudoelementos em um s=C3=B3 lugar. Uma interf=
+ace interativa no CodePen permite que voc=C3=AA fa=C3=A7a suas experi=C3=AA=
+ncias em tempo real.    </p>
+    <p><a href=3D"https://maujor.com/tutorial/guia-definitivo-das-pseudocla=
+sses-e-pseudoelementos-css.php#skip-aqui">=F0=9F=93=9A LER TUTORIAL =F0=9F=
+=93=9A</a></p>
+  </div>
+</aside>
+
+    <main class=3D"main" role=3D"main">
+      <!-- inicio-main -->
+<div id=3D"skip-aqui"></div>      <h1>A propriedade CSS list</h1>
+      <aside class=3D"visu-pubdate">
+        <div>Publicado em:
+          <span>12/12/2003</span>
+          <br>Atualiza=C3=A7=C3=B5es: 26/05/2016 - 17/10/2018        </div>
+      </aside>
+<h2>Introdu=C3=A7=C3=A3o</h2>    =20
+<p>As propriedades para as listas, definem as caracter=C3=ADsticas das list=
+as e s=C3=A3o  as listadas a seguir:</p>
+
+<ul class=3D"boxtut">=20
+  <li>list-style-image........define uma imagem como marcador da lista;</li=
+>
+  <li>list-style-position....define a posi=C3=A7=C3=A3o do marcador de list=
+a;</li>=20
+  <li>list-style-type...........define o tipo do marcador da lista;</li>
+  <li>list-style......................maneira abreviada para definir DUAS p=
+ropriedades.</li>
+</ul>
+ =20
+  <h2>Valores v=C3=A1lidos para as propriedades das lista</h2>
+ =20
+  <ul class=3D"boxtut">
+		<li><code>list-style-image</code>:=20
+			<ol>
+				<li>none</li>
+				<li>URL: url(caminho/marcador.gif)</li>
+			</ol>
+		</li>
+		<li><code>list-style-position</code>:=20
+			<ol>
+				<li>outside: marcador fora do alinhamento do texto</li>
+				<li>inside: marcador alinhado com texto</li>
+			</ol>
+		</li>
+		<li><code>list-style-type</code>: =20
+			<ol>
+				<li>none: sem marcador</li>
+				<li>disc: c=C3=ADrculo (bolinha cheia)</li>
+				<li>circle: circunfer=C3=AAncia (bolinha vazia)</li>
+				<li>square: quadrado cheio</li>
+				<li>decimal: n=C3=BAmeros 1, 2, 3, 4, ...</li>
+				<li>decimal-leading-zero: decimal com 0 no in=C3=ADcio</li>
+				<li>lower-roman: romano min=C3=BAsculo i, ii, iii, iv, ...</li>
+				<li>upper-roman: romano mai=C3=BAsculo I, II, III, IV, ...</li>
+				<li>lower-alpha: letra min=C3=BAscula a, b, c, d, ...</li>
+				<li>upper-alpha: letra mai=C3=BAscula A, B, C, D, ...</li>
+				<li>lower-greek</li>
+				<li>lower-latin</li>
+				<li>upper-latin</li>
+				<li>hebrew</li>
+				<li>armenian</li>
+				<li>georgian</li>
+				<li>cjk-ideographic</li>
+				<li>hiragana</li>
+				<li>katakana</li>
+				<li>hiragana-iroha</li>
+				<li>katakana-iroha </li>
+			</ol>
+		</li>
+	  </ul>
+
+  <h2>Sintaxe</h2>
+<p>A defini=C3=A7=C3=A3o dos marcadores de listas pode ser feita com uso do=
+ seletor-pai da lista (<code>ul</code> ou <code>ol</code>) ou com uso do se=
+letor-filho (<code>li</code>), conforme mostrado no exemplo a seguir:</p>=
+=09
+<div class=3D"titulo-codigo">CSS</div>
+<pre class=3D" language-css"><code class=3D" language-css"> <span class=3D"=
+token selector">ul</span> <span class=3D"token punctuation">{</span> <span =
+class=3D"token property">list-style-type</span><span class=3D"token punctua=
+tion">:</span> circle<span class=3D"token punctuation">;</span> <span class=
+=3D"token punctuation">}</span>
+ <span class=3D"token selector">ol</span> <span class=3D"token punctuation"=
+>{</span> <span class=3D"token property">list-style-type</span><span class=
+=3D"token punctuation">:</span> circle<span class=3D"token punctuation">;</=
+span> <span class=3D"token punctuation">}</span>
+ <span class=3D"token selector">li</span> <span class=3D"token punctuation"=
+>{</span> <span class=3D"token property">list-style-type</span><span class=
+=3D"token punctuation">:</span> circle<span class=3D"token punctuation">;</=
+span> <span class=3D"token punctuation">}</span>
+</code></pre> =20
+<p>Usando-se o seletor-pai a declara=C3=A7=C3=A3o ser=C3=A1 v=C3=A1lida par=
+a todos os items da lista. Usando-se o seletor-filho a declara=C3=A7=C3=A3o=
+ ser=C3=A1 v=C3=A1lida somente para um item da lista.</p> =20
+<!-- ADSENSE MAIN -->
+<!-- Fim ADD MAIN-->
+		   =20
+  <h2>Exemplos pr=C3=A1ticos</h2>
+    <p>Vejamos a seguir alguns exemplos pr=C3=A1ticos.</p>
+
+	<h2><code>list-style-image</code></h2>
+    <p> Este exemplo demonstra como definir uma imagem para servir de marca=
+dor de listas.</p> =20
+<div class=3D"titulo-codigo">HTML</div>
+<pre class=3D" language-markup"><code class=3D" language-markup"><span clas=
+s=3D"token tag"><span class=3D"token tag"><span class=3D"token punctuation"=
+>&lt;</span>ul</span><span class=3D"token punctuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ul</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+</code></pre>
+
+<div class=3D"titulo-codigo">CSS</div>
+<pre class=3D" language-css"><code class=3D" language-css"><span class=3D"t=
+oken selector">ul</span> <span class=3D"token punctuation">{</span>
+  <span class=3D"token property">list-style-image</span><span class=3D"toke=
+n punctuation">:</span> <span class=3D"token url">url("seta.gif")</span><sp=
+an class=3D"token punctuation">;</span>
+<span class=3D"token punctuation">}</span>
+</code></pre>
+
+  <p>Este =C3=A9 o efeito da folha de estilo acima:</p>
+ <div class=3D"demo">
+ <ul class=3D"imagem"> =20
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+  </div>
+  <h2><code>list-style-position</code></h2>
+	<p> Este exemplo demonstra como posicionar os marcadores de listas</p>
+<div class=3D"titulo-codigo">HTML</div>
+<pre class=3D" language-markup"><code class=3D" language-markup"><span clas=
+s=3D"token tag"><span class=3D"token tag"><span class=3D"token punctuation"=
+>&lt;</span>ul</span> <span class=3D"token attr-name">class</span><span cla=
+ss=3D"token attr-value"><span class=3D"token punctuation">=3D</span><span c=
+lass=3D"token punctuation">"</span>inside square<span class=3D"token punctu=
+ation">"</span></span><span class=3D"token punctuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Este texto destina-se a demonstrar o valor: "inside" dos marcadore=
+s de listas.<span class=3D"token tag"><span class=3D"token tag"><span class=
+=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctuatio=
+n">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>E aqui continuamos com mais texto para  demonstrar o valor:"inside=
+" dosmarcadores de listas.<span class=3D"token tag"><span class=3D"token ta=
+g"><span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"to=
+ken punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ul</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;</span>ul</span> <span class=3D"token attr-name">class</span=
+><span class=3D"token attr-value"><span class=3D"token punctuation">=3D</sp=
+an><span class=3D"token punctuation">"</span>outside square<span class=3D"t=
+oken punctuation">"</span></span><span class=3D"token punctuation">&gt;</sp=
+an></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Este texto destina-se a demonstrar o  valor: "outside" dos marcado=
+res de listas.<span class=3D"token tag"><span class=3D"token tag"><span cla=
+ss=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctuat=
+ion">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>E aqui continuamos com mais texto para  demonstrar o valor:"outsid=
+e" dos marcadores de listas.<span class=3D"token tag"><span class=3D"token =
+tag"><span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"=
+token punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ul</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+</code></pre>
+
+<div class=3D"titulo-codigo">CSS</div>
+<pre class=3D" language-css"><code class=3D" language-css"><span class=3D"t=
+oken selector">.inside</span> <span class=3D"token punctuation">{</span>
+  <span class=3D"token property">list-style-position</span><span class=3D"t=
+oken punctuation">:</span> inside<span class=3D"token punctuation">;</span>
+<span class=3D"token punctuation">}</span>
+<span class=3D"token selector">.outside</span> <span class=3D"token punctua=
+tion">{</span>
+  <span class=3D"token property">list-style-position</span><span class=3D"t=
+oken punctuation">:</span> outside<span class=3D"token punctuation">;</span=
+>
+<span class=3D"token punctuation">}</span>
+</code></pre>
+
+  <p>Este =C3=A9 o efeito da folha de estilo acima:</p>
+=20
+ <div class=3D"demo">
+ <ul class=3D"inside square" style=3D"border:1px solid #ccc;"> =20
+    <li>Este item destina-se a demonstrar o valor: "inside" dos marcadores =
+</li>
+    <li>Aqui mais item para demonstrar o valor:"inside" dos=20
+    marcadores de listas.</li>
+</ul>
+ <ul class=3D"outside square" style=3D"border:1px solid #ccc;"> =20
+    <li>Este item destina-se a demonstrar o valor: "outside" dos marcadores=
+ </li>
+    <li>Aqui mais item para demonstrar o valor:"outside" dos=20
+    marcadores de listas.</li>
+</ul>
+<p><small>Nota: Inserimos uma borda cinza nos dois elementos <code>ul</code=
+> que demonstram os valores <code>inside</code> e <code>outside</code></sma=
+ll></p>
+</div>
+	<h2><code>list-style-type</code></h2>
+    <h2>Definir marcadores de listas n=C3=A3o ordenadas</h2>
+  <p> Este exemplo demonstra como definir marcadores de listas n=C3=B5o ord=
+enadas.</p>
+<div class=3D"titulo-codigo">HTML</div>
+<pre class=3D" language-markup"><code class=3D" language-markup"><span clas=
+s=3D"token tag"><span class=3D"token tag"><span class=3D"token punctuation"=
+>&lt;</span>ul</span> <span class=3D"token attr-name">class</span><span cla=
+ss=3D"token attr-value"><span class=3D"token punctuation">=3D</span><span c=
+lass=3D"token punctuation">"</span>none<span class=3D"token punctuation">"<=
+/span></span><span class=3D"token punctuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ul</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;</span>ul</span> <span class=3D"token attr-name">class</span=
+><span class=3D"token attr-value"><span class=3D"token punctuation">=3D</sp=
+an><span class=3D"token punctuation">"</span>disc<span class=3D"token punct=
+uation">"</span></span><span class=3D"token punctuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ul</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;</span>ul</span> <span class=3D"token attr-name">class</span=
+><span class=3D"token attr-value"><span class=3D"token punctuation">=3D</sp=
+an><span class=3D"token punctuation">"</span>circle<span class=3D"token pun=
+ctuation">"</span></span><span class=3D"token punctuation">&gt;</span></spa=
+n>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ul</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;</span>ul</span> <span class=3D"token attr-name">class</span=
+><span class=3D"token attr-value"><span class=3D"token punctuation">=3D</sp=
+an><span class=3D"token punctuation">"</span>square<span class=3D"token pun=
+ctuation">"</span></span><span class=3D"token punctuation">&gt;</span></spa=
+n>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ul</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+</code></pre>
+<div class=3D"titulo-codigo">CSS</div>
+<pre class=3D" language-css"><code class=3D" language-css"><span class=3D"t=
+oken selector">ul.none</span> <span class=3D"token punctuation">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> none<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+<span class=3D"token selector">ul.disc</span> <span class=3D"token punctuat=
+ion">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> disc<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+<span class=3D"token selector">ul.circle</span> <span class=3D"token punctu=
+ation">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> circle<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+<span class=3D"token selector">ul.square</span> <span class=3D"token punctu=
+ation">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> square<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+</code></pre>
+
+  <p>Este =C3=A9 o efeito da folha de estilo acima:</p>
+ =20
+<div class=3D"demo"> =20
+  <ul class=3D"none">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+	 <ul class=3D"disc"> =20
+		<li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+   <ul class=3D"circle">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+   <ul class=3D"square">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+</div>
+  <h2>Definir marcadores de listas ordenadas</h2>
+  <p> Este exemplo demonstra como definir marcadores de listas ordenadas.</=
+p>
+<pre class=3D" language-markup"><code class=3D" language-markup"><span clas=
+s=3D"token tag"><span class=3D"token tag"><span class=3D"token punctuation"=
+>&lt;</span>ol</span> <span class=3D"token attr-name">class</span><span cla=
+ss=3D"token attr-value"><span class=3D"token punctuation">=3D</span><span c=
+lass=3D"token punctuation">"</span>decimal<span class=3D"token punctuation"=
+>"</span></span><span class=3D"token punctuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ol</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;</span>ol</span> <span class=3D"token attr-name">class</span=
+><span class=3D"token attr-value"><span class=3D"token punctuation">=3D</sp=
+an><span class=3D"token punctuation">"</span>lroman<span class=3D"token pun=
+ctuation">"</span></span><span class=3D"token punctuation">&gt;</span></spa=
+n>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ol</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;</span>ol</span> <span class=3D"token attr-name">class</span=
+><span class=3D"token attr-value"><span class=3D"token punctuation">=3D</sp=
+an><span class=3D"token punctuation">"</span>uroman<span class=3D"token pun=
+ctuation">"</span></span><span class=3D"token punctuation">&gt;</span></spa=
+n>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ol</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;</span>ol</span> <span class=3D"token attr-name">class</span=
+><span class=3D"token attr-value"><span class=3D"token punctuation">=3D</sp=
+an><span class=3D"token punctuation">"</span>lalpha<span class=3D"token pun=
+ctuation">"</span></span><span class=3D"token punctuation">&gt;</span></spa=
+n>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ol</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;</span>ol</span> <span class=3D"token attr-name">class</span=
+><span class=3D"token attr-value"><span class=3D"token punctuation">=3D</sp=
+an><span class=3D"token punctuation">"</span>ualpha<span class=3D"token pun=
+ctuation">"</span></span><span class=3D"token punctuation">&gt;</span></spa=
+n>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ol</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+</code></pre>
+<div class=3D"titulo-codigo">CSS</div>
+<pre class=3D" language-css"><code class=3D" language-css"><span class=3D"t=
+oken selector">ol.decimal</span> <span class=3D"token punctuation">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> decimal<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+<span class=3D"token selector">ol.lroman</span> <span class=3D"token punctu=
+ation">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> lower-roman<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+<span class=3D"token selector">ol.uroman</span> <span class=3D"token punctu=
+ation">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> upper-roman<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+<span class=3D"token selector">ol.lalpha</span> <span class=3D"token punctu=
+ation">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> lower-alpha<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+<span class=3D"token selector">ol.ualpha</span> <span class=3D"token punctu=
+ation">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> upper-alpha<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+</code></pre>
+  <p>Este =C3=A9 o efeito da folha de estilo acima:</p>
+=20
+<div class=3D"demo"> =20
+ <ol class=3D"decimal"> =20
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ol>
+   <ol class=3D"lroman">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ol>
+   <ol class=3D"uroman">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ol>
+   <ol class=3D"lalpha">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ol>
+   <ol class=3D"ualpha">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ol>
+</div> =20
+  <h2>Mais marcadores de listas ordenadas</h2>
+  <p> Este exemplo demonstra como definir mais marcadores de listas ordenad=
+as.</p>
+<div class=3D"titulo-codigo">HTML</div>
+<pre class=3D" language-markup"><code class=3D" language-markup"><span clas=
+s=3D"token tag"><span class=3D"token tag"><span class=3D"token punctuation"=
+>&lt;</span>ol</span> <span class=3D"token attr-name">class</span><span cla=
+ss=3D"token attr-value"><span class=3D"token punctuation">=3D</span><span c=
+lass=3D"token punctuation">"</span>lower-greek<span class=3D"token punctuat=
+ion">"</span></span><span class=3D"token punctuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ol</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;</span>ol</span> <span class=3D"token attr-name">class</span=
+><span class=3D"token attr-value"><span class=3D"token punctuation">=3D</sp=
+an><span class=3D"token punctuation">"</span>lower-latin<span class=3D"toke=
+n punctuation">"</span></span><span class=3D"token punctuation">&gt;</span>=
+</span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ol</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;</span>ol</span> <span class=3D"token attr-name">class</span=
+><span class=3D"token attr-value"><span class=3D"token punctuation">=3D</sp=
+an><span class=3D"token punctuation">"</span>upper-latin<span class=3D"toke=
+n punctuation">"</span></span><span class=3D"token punctuation">&gt;</span>=
+</span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ol</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;</span>ol</span> <span class=3D"token attr-name">class</span=
+><span class=3D"token attr-value"><span class=3D"token punctuation">=3D</sp=
+an><span class=3D"token punctuation">"</span>hebrew<span class=3D"token pun=
+ctuation">"</span></span><span class=3D"token punctuation">&gt;</span></spa=
+n>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ol</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;</span>ol</span> <span class=3D"token attr-name">class</span=
+><span class=3D"token attr-value"><span class=3D"token punctuation">=3D</sp=
+an><span class=3D"token punctuation">"</span>armenian<span class=3D"token p=
+unctuation">"</span></span><span class=3D"token punctuation">&gt;</span></s=
+pan>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ol</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;</span>ol</span> <span class=3D"token attr-name">class</span=
+><span class=3D"token attr-value"><span class=3D"token punctuation">=3D</sp=
+an><span class=3D"token punctuation">"</span>georgian<span class=3D"token p=
+unctuation">"</span></span><span class=3D"token punctuation">&gt;</span></s=
+pan>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item um<span class=3D"token tag"><span class=3D"token tag"><span c=
+lass=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punctu=
+ation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois<span class=3D"token tag"><span class=3D"token tag"><span=
+ class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token punc=
+tuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs<span class=3D"token tag"><span class=3D"token tag">=
+<span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token=
+ punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ol</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+
+</code></pre>
+<div class=3D"titulo-codigo">CSS</div>
+<pre class=3D" language-css"><code class=3D" language-css"><span class=3D"t=
+oken selector">ol.lower-greek</span> <span class=3D"token punctuation">{</s=
+pan>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> lower-greek<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+<span class=3D"token selector">ol.lower-latin</span> <span class=3D"token p=
+unctuation">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> lower-latin<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+<span class=3D"token selector">ol.lower-latin</span> <span class=3D"token p=
+unctuation">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> upper-latin<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+<span class=3D"token selector">ol.hebrew</span> <span class=3D"token punctu=
+ation">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> hebrew<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+<span class=3D"token selector">ol.armenian</span> <span class=3D"token punc=
+tuation">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> armenian<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+<span class=3D"token selector">ol.georgian</span> <span class=3D"token punc=
+tuation">{</span>
+	<span class=3D"token property">list-style-type</span><span class=3D"token =
+punctuation">:</span> georgian<span class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+<span class=3D"token comment">/* mais cinco marcadores  */</span>
+</code></pre>
+  <p>Este =C3=A9 o efeito da folha de estilo acima:</p>
+<div class=3D"demo"> =20
+ <h5><code>lower-greek</code></h5>
+ <ul class=3D"lower-greek"> =20
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+ <h5><code>lower-latin</code></h5>
+   <ul class=3D"lower-latin">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+ <h5><code>upper-latin</code></h5>
+   <ul class=3D"upper-latin">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+ <h5><code>hebrew</code></h5>
+   <ul class=3D"hebrew">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+ <h5><code>armenian</code></h5>
+   <ul class=3D"armenian">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+ <h5><code>georgian</code></h5>
+   <ul class=3D"georgian">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+ <h5><code>cjk-ideographic</code></h5>
+   <ul class=3D"cjk-ideographic">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+  <h5><code>hiragana</code></h5>
+  <ul class=3D"hiragana">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+ <h5><code>katakana</code></h5>
+   <ul class=3D"katakana">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+  <h5><code>hiragana-iroha</code></h5>
+  <ul class=3D"hiragana-iroha">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+ <h5><code>katakana-iroha</code></h5>
+   <ul class=3D"katakana-iroha">
+    <li>Item um</li>
+    <li>Item dois</li>
+    <li>Item tr=C3=AAs</li>
+  </ul>
+  </div>
+ =20
+  <h2><code>list-style</code></h2>
+	<p>Esta =C3=A9 a maneira abreviada de se escrever uma s=C3=B3 declara=C3=
+=A7=C3=A3o para duas das propriedades para listas:</p>
+	<p>A sintaxe geral =C3=A9 esta: <code>list-style:   list-position  list-im=
+age</code> ou <code>list-style:  list-position  list-type</code>  podendo-s=
+e inverter a ordem dos dois valores.</p>
+	<p>Observe o exemplo a seguir:</p>
+<pre class=3D" language-markup"><code class=3D" language-markup"><span clas=
+s=3D"token tag"><span class=3D"token tag"><span class=3D"token punctuation"=
+>&lt;</span>ul</span><span class=3D"token punctuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Texto para demonstrar a propriedade de declara=C3=A7=C3=A3oo =C3=
+=BAnica  para listas;<span class=3D"token tag"><span class=3D"token tag"><s=
+pan class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token p=
+unctuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item dois;<span class=3D"token tag"><span class=3D"token tag"><spa=
+n class=3D"token punctuation">&lt;/</span>li</span><span class=3D"token pun=
+ctuation">&gt;</span></span>
+	<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;</span>li</span><span class=3D"token punctuation">&gt;</spa=
+n></span>Item tr=C3=AAs.<span class=3D"token tag"><span class=3D"token tag"=
+><span class=3D"token punctuation">&lt;/</span>li</span><span class=3D"toke=
+n punctuation">&gt;</span></span>
+<span class=3D"token tag"><span class=3D"token tag"><span class=3D"token pu=
+nctuation">&lt;/</span>ul</span><span class=3D"token punctuation">&gt;</spa=
+n></span>
+</code></pre>
+<div class=3D"titulo-codigo">CSS</div>
+<pre class=3D" language-css"><code class=3D" language-css"><span class=3D"t=
+oken selector">ul</span> <span class=3D"token punctuation">{</span>
+	<span class=3D"token property">list-style</span><span class=3D"token punct=
+uation">:</span> inside <span class=3D"token url">url("seta.gif")</span><sp=
+an class=3D"token punctuation">;</span>
+	<span class=3D"token punctuation">}</span>
+</code></pre>
+
+<div class=3D"demo">	=09
+  <p> Este =C3=A9 o efeito da folha de estilo acima:</p>
+  <ul class=3D"inside imagem">
+    <li>Texto para demonstrar a propriedade de declara=C3=A7=C3=A3o =C3=BAn=
+ica para listas;</li>
+    <li list-style-position:outside;=3D"">Item dois;</li>
+		<li>Item tr=C3=AAs.</li>
+  </ul>
+</div>
+<div id=3D"esconde">
+    <h4>Compartilhe essa mat=C3=A9ria com seus amigos</h4>
+    <a href=3D"https://twitter.com/intent/tweet?" target=3D"_blank" title=
+=3D"Tweet"><img src=3D"https://maujor.com/imagens/icon/share-twitter.png" a=
+lt=3D"logo twitter"></a>
+
+    <a href=3D"https://www.facebook.com/sharer/sharer.php?u=3D&amp;t=3D" ti=
+tle=3D"Compartilhar no Facebook" target=3D"_blank"><img src=3D"https://mauj=
+or.com/imagens/icon/share-facebook.png" alt=3D"logo facebook"></a>
+
+    <a href=3D"http://www.linkedin.com/shareArticle?mini=3Dtrue&amp;url=3D&=
+amp;title=3D&amp;summary=3D&amp;source=3D" target=3D"_blank" title=3D"Compa=
+rtilhar no LinkedIn"><img src=3D"https://maujor.com/imagens/icon/share-link=
+edin.png" alt=3D"logo linkedin"></a>
+
+    <a href=3D"http://www.reddit.com/submit?url=3D&amp;title=3D" target=3D"=
+_blank" title=3D"Submit to Reddit"><img src=3D"https://maujor.com/imagens/i=
+con/share-reddit.png" alt=3D"logo reddit"></a>
+
+    <!-- <h2 style=3D"border-top: 1px solid #ccc;padding-top: 20px;">Coment=
+=C3=A1rios</h2>
+    <p><small>=C3=81rea de coment=C3=A1rios reativada em 24/12/2022 a t=C3=
+=ADtulo de experi=C3=AAncias.</small></p>
+    <div id=3D"disqus_thread" style=3D"color: #000;"></div>
+    <script>
+    var disqus_config =3D function () {
+    this.page.url =3D '';
+    this.page.identifier =3D '';
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d =3D document, s =3D d.createElement('script');
+    s.src =3D 'https://httpmaujorcom.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>habilite JavaScript para visualizar os <a href=3D"https://dis=
+qus.com/?ref_noscript">coment=C3=A1rios powered by Disqus.</a></noscript> -=
+->
+</div>
+<div class=3D"livros-maujor">
+    <h2>Conhe=C3=A7a os livros do Maujor=C2=AE</h2>
+    <p>Ir para a <a rel=3D"noopener" href=3D"https://livrosdomaujor.com.br/=
+" target=3D"_blank">p=C3=A1gina de entrada nos sites dos livros</a>.</p>
+</div>
+<div class=3D"add-bottom">
+      <!--div style=3D"width: 100%; max-width: 728px; margin: 0  auto"><a h=
+ref=3D" https://www.devmedia.com.br/css/?utm_source=3Dhttp%3A%2F%2Fwww.mauj=
+or.com&utm_medium=3Dbanner&utm_campaign=3DParceiros" title=3D"css"><img src=
+=3D"https://maujor.com/imagens/devMedia.png" alt=3D"Banner propaganda da De=
+vMedia - Cursos de desenvolvimento web"></a>
+      </div-->
+</div>
+    </main>
+
+    <nav class=3D"nav" role=3D"navigation">
+      <!-- inicio-nav -->
+<div class=3D"item">
+  <h3>Fundamentos CSS</h3>
+  <ul class=3D"box">
+    <li><a href=3D"https://maujor.com/tutorial/abreviacss.php#skip-aqui">Ab=
+reviando declara=C3=A7=C3=B5es CSS =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/especificidade.php#skip-aqui=
+">Especificidade e efeito cascata =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/faq.php#skip-aqui">FAQ - CSS=
+ =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/w3ctuto/faqwsp.html">FAQ - Web Standa=
+rds =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/specificity_wars.php#skip-aq=
+ui">Guerra da Especificidade =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/heranca-css.php#skip-aqui">H=
+eran=C3=A7a CSS =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/intrtut.php#skip-aqui">Intro=
+du=C3=A7=C3=A3o =C3=A0s CSS =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/cores.php#skip-aqui">Regras =
+CSS para cores =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/sintaxetut.php#skip-aqui">Si=
+ntaxe CSS =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/insetut.php#skip-aqui">Tipos=
+ de folhas de estilos =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/unidades-de-medidas-css.php#=
+skip-aqui">Unidades de medidas CSS =E2=A4=B4=EF=B8=8F</a></li>
+  </ul>
+</div>
+<div class=3D"item">
+  <h3>Propriedades CSS</h3>
+  <ul class=3D"box">
+    <li><a href=3D"https://maujor.com/tutorial/propriedade-css-para-estiliz=
+acao-de-background.php#skip-aqui">Propriedade
+        CSS
+        <code>background</code> =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedades-css-para-estili=
+zacao-de-bordas.php#skip-aqui">Propriedade CSS
+        <code>border</code> =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/borderplay.php#skip-aqui">Pr=
+opriedade CSS <code>border</code>
+        <small>(formas
+          geom=C3=A9tricas)</small> =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedade-css-display.php#=
+skip-aqui">Propriedade CSS
+        <code>display</code> =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedades-css-para-estili=
+zacao-de-fontes.php#skip-aqui">Propriedade CSS
+        <code>font</code> =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedade-css-height.php#s=
+kip-aqui">Propriedade CSS <code>height</code>
+        =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/css3-propriedade-hyphens.php=
+#skip-aqui">Propriedade CSS
+        <code>hyphens</code> =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedade-css-line-height.=
+php#skip-aqui"> Propriedade CSS
+        <code>line-height</code> =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedades-css-para-estili=
+zacao-de-listas.php#skip-aqui">Propriedade CSS
+        <code>list</code> =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedade-css-margin.php#s=
+kip-aqui">Propriedade CSS <code>margin</code>
+        =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedade-css-object-fit.p=
+hp#skip-aqui">Propriedade CSS
+        <code>object-fit</code> =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedade-css-padding.php#=
+skip-aqui">Propriedade CSS
+        <code>padding</code> =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedades-css-para-estili=
+zacao-de-textos.php#skip-aqui">Propriedade CSS
+        <code>text</code> =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedade-css-width.php#sk=
+ip-aqui">Propriedade CSS <code>width</code>
+        =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedade-css-will-change.=
+php#skip-aqui">Propriedade CSS
+        <code>will-change</code> =E2=A4=B4=EF=B8=8F</a></li>
+  </ul>
+</div>
+<div class=3D"item">
+  <h3>CSS3</h3>
+  <ul class=3D"box">
+    <li><a href=3D"https://maujor.com/tutorial/css3-bordas-com-imagens.php#=
+skip-aqui">Borda com imagem =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/criando-animacao-flipping-co=
+m-css.php#skip-aqui">Efeito de anima=C3=A7=C3=A3o
+        flipping =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/css3-filters.php#skip-aqui">=
+Filtros CSS =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/css3-funcao-css-calc.php#ski=
+p-aqui">Fun=C3=A7=C3=A3o CSS calc() =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/css3-gradientes-lineares.php=
+#skip-aqui">Gradientes lineares =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/css3-modulo-para-cores.php#s=
+kip-aqui">Cores rgb, hsl, rgba e hsla =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/css3-modulo-transition.php#s=
+kip-aqui">M=C3=B3dulo Transition das CSS3 =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/css-shapes.php#skip-aqui">Sh=
+apes das CSS3 =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/css-shapes-clipping-and-mask=
+ing.php#skip-aqui">Shapes, clipping e masking
+        =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedades-css-customizada=
+s-modulo1.php#skip-aqui">Vari=C3=A1veis CSS =E2=A4=B4=EF=B8=8F</a>
+    </li>
+  </ul>
+</div>
+<div class=3D"item">
+  <h3>Formul=C3=A1rios</h3>
+  <ul class=3D"box">
+    <li><a href=3D"https://maujor.com/tutorial/estilizando-caixas-de-busca.=
+php#skip-aqui">Estiliza=C3=A7=C3=A3o de caixas de busca
+        =E2=A4=B4=EF=B8=8F</a>
+    </li>
+  </ul>
+</div>
+<div class=3D"item">
+  <h3>Web Design Responsivo</h3>
+  <ul class=3D"box">
+    <li><a href=3D"https://maujor.com/tutorial/elemento-picture-para-imagen=
+s-responsivas.php#skip-aqui">Elemento picture
+        - imagens
+        responsivas =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/queries-css-para-quantidades=
+.php#skip-aqui">Queries CSS para quantidades
+        =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/menu-responsivo-em-slider-la=
+teral.php#skip-aqui">Menu slider responsivo
+        =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedade-css-width-no-des=
+ign-responsivo.php#skip-aqui">Propriedade CSS
+        width no
+        RWD =E2=A4=B4=EF=B8=8F</a></li>
+  </ul>
+</div>
+<div class=3D"item">
+  <h3>Artigos</h3>
+  <ul class=3D"box">
+    <li><a href=3D"https://maujor.com/tutorial/css-moderno-explicado-para-d=
+inossauros.php#skip-aqui">CSS moderno
+        explicado para
+        dinossauros =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/estilizando-marcadores-de-li=
+stas-ordenadast.php#skip-aqui">Estilizando
+        marcadores de
+        listas ordenadas =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/csscribsheet.php#skip-aqui">=
+Dicas para desenvolver CSS =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/dicascss.php#skip-aqui">Mais=
+ dicas para Folhas de Estilo =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/alinhar-imagens-com-propried=
+ade-vertical-align.php#skip-aqui">Alinhar
+        imagens em
+        textos =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/centralizando-com-css-um-gui=
+a-completo.php#skip-aqui">Centralizando com
+        CSS =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/ancoras-versus-botoes.php#sk=
+ip-aqui">=C3=82ncoras versus bot=C3=B5es =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/anti-heroi-css-display-table=
+.php#skip-aqui">Layout com display: table
+        =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/10-exemplos-de-funcionalidad=
+es-es6.php#skip-aqui">Dez exemplos de
+        funcionalidades
+        das ES6 =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/assista-videos-usando-a-api-=
+picture-in-picture.php#skip-aqui">A API
+        Picture-in-Picture =E2=A4=B4=EF=B8=8F</a></li>
+  </ul>
+</div>
+<div class=3D"item">
+  <h3>Museu do site</h3>
+  <ul class=3D"box">
+    <li><a href=3D"https://maujor.com/tutorial/conteudo-legado-no-site-do-m=
+aujor.php#skip-aqui">Museu do site =E2=A4=B4=EF=B8=8F</a></li>
+  </ul>
+</div>
+<div class=3D"item">
+  <h3>Autores convidados</h3>
+  <ul class=3D"box">
+    <li><a href=3D"https://maujor.com/autores/index.php#skip-aqui">QUERO SE=
+R UM AUTOR =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/borda-serrilhada-com-css.php=
+#skip-aqui">Borda serrilhada com CSS3 =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/meta-tags-x-ua-compatible-e-=
+charset.php#skip-aqui">Metatags X-UA
+        Compatible e
+        charset =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/full-stack-developer.php#ski=
+p-aqui">O que =C3=A9 Full-Stack Developer =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/propriedade-css-box-sizing.p=
+hp#skip-aqui">A propriedade CSS box-sizing
+        =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/escrevendo-html-semantico.ph=
+p#skip-aqui">Escrevendo HTML sem=C3=A2ntico =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/metodologia-bem-para-criar-c=
+odigo-legivel.php#skip-aqui">Metodologia BEM
+        =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/inserindo-videos-com-uso-da-=
+html5.php#skip-aqui">Como inserir v=C3=ADdeos com
+        HTML5
+        =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/sobre-hospedagem-de-sites.ph=
+p#skip-aqui">Onde hospedar meu site =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/variaveis-nas-css.php#skip-a=
+qui">Vari=C3=A1veis nas CSS =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/como-otimizar-o-css-para-mel=
+horar-o-desempenho-de-um-site.php#skip-aqui">Como
+        otimizar o CSS para melhorar o desempenho de um site =E2=A4=B4=EF=
+=B8=8F</a></li>
+  </ul>
+</div>
+<div class=3D"item">
+  <h3>React</h3>
+  <ul class=3D"box">
+    <li><a href=3D"https://maujor.com/tutorial/biblioteca-react-styled-comp=
+onents.php#skip-aqui">A biblioteca React
+        Styled
+        Components =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/react-export-import-defaults=
+.php#skip-aqui">React export, import e
+        defaults =E2=A4=B4=EF=B8=8F</a>
+    </li>
+  </ul>
+</div>
+<div class=3D"item">
+  <h3>Seletores CSS</h3>
+  <ul class=3D"box">
+    <li><a href=3D"https://maujor.com/tutorial/seletores-multi-classe.php#s=
+kip-aqui">Modulariza=C3=A7=C3=A3o CSS com seletores
+        multiclasse =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/guia-definitivo-das-pseudocl=
+asses-e-pseudoelementos-css.php#skip-aqui">Seletores
+        pseudoclasses e pseudoelementos =E2=A4=B4=EF=B8=8F</a></li>
+    <li><a href=3D"https://maujor.com/tutorial/guia-completo-seletores-css3=
+.php#skip-aqui">Guia completo dos seletores
+        CSS3 =E2=A4=B4=EF=B8=8F</a>
+    </li>
+    <li><a href=3D"https://maujor.com/tutorial/pseudoclasses-para-elementos=
+-filhos.php#skip-aqui">Seletores pseudoclasses
+        para
+        elementos-filhos =E2=A4=B4=EF=B8=8F</a></li>
+  </ul>
+</div>
+<div>
+</div>
+      <!-- fim-nav -->
+    </nav>
+  </div><div id=3D"scrnli_recorder_root"><template shadowmode=3D"open"><div=
+><div data-v-5433e1da=3D"" class=3D"app-root"><!----></div></div></template=
+></div> <!-- /.wrapper -->
+  =20
+    <footer class=3D"footer" role=3D"contentinfo">
+<ul class=3D"social-buttons cf"> <li> <a href=3D"https://maujor.com/contato=
+.php" title=3D"fale com o Maujor" class=3D"email" rel=3D"external nofollow"=
+>=F0=9F=93=A7</a> </li><li> <a href=3D"https://twitter.com/maujor" class=3D=
+"twitter" rel=3D"external nofollow">twitter</a> </li><li> <a href=3D"https:=
+//www.facebook.com/maujor" class=3D"facebook" rel=3D"external nofollow">fac=
+ebook</a> </li><li> <a href=3D"https://www.youtube.com/user/maujor1" class=
+=3D"youtube" rel=3D"external nofollow">youtube</a> </li><li> <a href=3D"htt=
+ps://maujor.com/rss.xml" title=3D"rss do Maujor" class=3D"rss">rss</a> </li=
+></ul> <address>Site criado em agosto de 2003 por <a href=3D"https://maujor=
+.com/contato.php">[Maur=C3=ADcio "Maujor=C2=AE" Samy Silva]</a> =E2=80=94 C=
+opyright =C2=A9 2003-2023. </address> <div class=3D"irtopo"><a href=3D"http=
+s://maujor.com/tutorial/propriedades-css-para-estilizacao-de-listas.php#ski=
+p">topo</a></div>
+    </footer>
+    <!-- extra 3 -->
+  <!-- Google Analytics -->
+ =20
+ =20
+  <!-- FIM Google Analytics -->
+
+<div id=3D"popupMenu" style=3D"display: none;"></div><iframe src=3D"cid:fra=
+me-5516D21FB79547FE9CD975AFE691B010@mhtml.blink" allow=3D"microphone" style=
+=3D"display: none;"></iframe><input type=3D"file" id=3D"" name=3D"file" sty=
+le=3D"display: none;"><div data-v-5f0b9ba1=3D"" class=3D"container_selected=
+_area" style=3D"cursor: url(&quot;chrome-extension://iidlbfbakcgbmmbcpfbhmi=
+knkdacikdm/assets/images/cursor-imagen.svg&quot;) 9 9, crosshair;"><div dat=
+a-v-5f0b9ba1=3D"" class=3D"area"></div></div><div><iframe style=3D"position=
+:absolute;height:1px,width:1px;top:0;left:0;border:none;visibility:hidden" =
+src=3D"cid:frame-3B8D81CFFDF87D8949F353517D42CC96@mhtml.blink" id=3D"embedV=
+ideo"></iframe></div><div><iframe style=3D"position:absolute;height:1px,wid=
+th:1px;top:0;left:0;border:none;visibility:hidden" src=3D"cid:frame-E564B15=
+7BE7F48612F219DF2A7EBBE7A@mhtml.blink" id=3D"embedVideo"></iframe></div></b=
+ody></html>
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-85b5edb1-2217-47c1-8c63-2d5ceea8feba@mhtml.blink
+
+@charset "utf-8";
+
+main.main .demo .disc { list-style-type: disc !important; }
+
+main.main .demo .circle { list-style-type: circle !important; }
+
+main.main .demo .square { list-style-type: square !important; }
+
+main.main .demo .none { list-style-type: none !important; }
+
+main.main .demo .imagem { list-style-image: url("seta.gif") !important; }
+
+main.main .demo .inside { list-style-position: inside !important; }
+
+main.main .demo .outside { list-style-position: outside !important; }
+
+main.main .demo .decimal { list-style-type: decimal !important; }
+
+main.main .demo .decimal-leading-zero { list-style-type: decimal-leading-ze=
+ro !important; }
+
+main.main .demo .lroman { list-style-type: lower-roman !important; }
+
+main.main .demo .uroman { list-style-type: upper-roman !important; }
+
+main.main .demo .lalpha { list-style-type: lower-alpha !important; }
+
+main.main .demo .ualpha { list-style-type: upper-alpha !important; }
+
+main.main .demo .lower-greek { list-style-type: lower-greek !important; }
+
+main.main .demo .lower-latin { list-style-type: lower-latin !important; }
+
+main.main .demo .upper-latin { list-style-type: upper-latin !important; }
+
+main.main .demo .hebrew { list-style-type: hebrew !important; }
+
+main.main .demo .armenian { list-style-type: armenian !important; }
+
+main.main .demo .georgian { list-style-type: georgian !important; }
+
+main.main .demo .cjk-ideographic { list-style-type: cjk-ideographic !import=
+ant; }
+
+main.main .demo .hiragana { list-style-type: hiragana !important; }
+
+main.main .demo .katakana { list-style-type: katakana !important; }
+
+main.main .demo .hiragana-iroha { list-style-type: hiragana-iroha !importan=
+t; }
+
+main.main .demo .katakana-iroha { list-style-type: katakana-iroha !importan=
+t; }
+
+main.main .demo ul { display: block; list-style-type: disc; margin-block: 1=
+em; margin-inline: 0px; padding-inline-start: 40px; }
+
+main.main .demo li { display: list-item; text-align: -webkit-match-parent; =
+}
+
+main.main .demo ol { list-style-type: disc; }
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://maujor.com/tutorial/seta.gif
+
+R0lGODlhCgAKALMAAAAAAMzMzFBQUJmZmSAgIP///3BwcO/v7xAQEGZmZq+vr4+Pj9/f3zMzM///
+/wAAACH5BAUUAA4ALAAAAAAKAAoAAAQfECgCqq3lmGuLDw3njQvSjR4jYGihsqQJg6LGVdMNRAA7
+
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-95e6e9ea-b2b5-4dbf-8418-b380793096fc@mhtml.blink
+
+@charset "utf-8";
+
+button.btn[data-v-5f0b9ba1] { display: inline-block; font-weight: 300; line=
+-height: 1.25; text-align: center; white-space: nowrap; vertical-align: mid=
+dle; user-select: none; border: 1px solid transparent; cursor: pointer; let=
+ter-spacing: 1px; transition: all 0.15s ease 0s; }
+
+button.btn.btn-sm[data-v-5f0b9ba1] { padding: 0.4rem 0.8rem; font-size: 0.8=
+rem; border-radius: 0.2rem; }
+
+button.btn.btn-primary[data-v-5f0b9ba1] { color: rgb(255, 255, 255); backgr=
+ound-color: rgb(69, 200, 241); border-color: rgb(69, 200, 241); }
+
+button.btn.btn-outline-primary[data-v-5f0b9ba1] { color: rgb(69, 200, 241);=
+ background-color: transparent; border-color: rgb(69, 200, 241); }
+
+button.btn.btn-danger[data-v-5f0b9ba1] { color: rgb(255, 255, 255); backgro=
+und-color: rgb(255, 73, 73); border-color: rgb(255, 73, 73); }
+
+.text-muted[data-v-5f0b9ba1] { color: rgb(132, 146, 166); }
+
+.text-center[data-v-5f0b9ba1] { text-align: center; }
+
+.drop-down-enter[data-v-5f0b9ba1], .drop-down-leave-to[data-v-5f0b9ba1] { t=
+ransform: translateX(0px) translateY(-20px); transition-timing-function: cu=
+bic-bezier(0.74, 0.04, 0.26, 1.05); opacity: 0; }
+
+.drop-down-enter-active[data-v-5f0b9ba1], .drop-down-leave-active[data-v-5f=
+0b9ba1] { transition: all 0.15s ease 0s; }
+
+.move-left-enter[data-v-5f0b9ba1], .move-left-leave-to[data-v-5f0b9ba1] { t=
+ransform: translateY(0px) translateX(-80px); transition-timing-function: cu=
+bic-bezier(0.74, 0.04, 0.26, 1.05); opacity: 0; }
+
+.move-left-enter-active[data-v-5f0b9ba1], .move-left-leave-active[data-v-5f=
+0b9ba1] { transition: all 0.15s ease 0s; }
+
+.no-tr[data-v-5f0b9ba1] { transition: none 0s ease 0s !important; }
+
+.no-tr [data-v-5f0b9ba1] { transition: none 0s ease 0s !important; }
+
+.overlay[data-v-5f0b9ba1] { position: fixed; background: rgba(220, 220, 220=
+, 0.8); display: flex; align-items: center; justify-content: center; inset:=
+ 0px; transition: all 0.2s ease 0s; opacity: 0; visibility: hidden; }
+
+.overlay .modal[data-v-5f0b9ba1] { transition: all 0.2s ease 0s; opacity: 0=
+; transform: scale(0.6); overflow: hidden; }
+
+.overlay.show[data-v-5f0b9ba1] { opacity: 1; visibility: visible; }
+
+.overlay.show .modal[data-v-5f0b9ba1] { opacity: 1; transform: scale(1); }
+
+.panel[data-v-5f0b9ba1] { padding: 6px 10px; display: flex; width: 100%; bo=
+x-sizing: border-box; align-items: center; border-radius: 4px; position: re=
+lative; border: 1px solid rgb(234, 247, 255); background: rgb(247, 252, 255=
+); outline: none; transition: all 0.07s ease-in-out 0s; }
+
+.btn[data-v-5f0b9ba1] { cursor: pointer; box-sizing: border-box; }
+
+.light-btn[data-v-5f0b9ba1] { padding: 6px 10px; display: flex; width: 100%=
+; box-sizing: border-box; align-items: center; border-radius: 4px; position=
+: relative; border: 1px solid rgb(234, 247, 255); background: rgb(247, 252,=
+ 255); outline: none; cursor: pointer; transition: all 0.07s ease-in-out 0s=
+; }
+
+.light-btn[data-v-5f0b9ba1]:hover { background: rgb(224, 244, 255); border-=
+color: rgb(138, 207, 255); }
+
+.shake[data-v-5f0b9ba1] { animation: 0.82s cubic-bezier(0.36, 0.07, 0.19, 0=
+.97) 0s 1 normal both running shake-data-v-5f0b9ba1; transform: translate3d=
+(0px, 0px, 0px); }
+
+@keyframes shake-data-v-5f0b9ba1 {=20
+  10%, 90% { transform: translate3d(-1px, 0px, 0px); }
+  20%, 80% { transform: translate3d(2px, 0px, 0px); }
+  30%, 50%, 70% { transform: translate3d(-4px, 0px, 0px); }
+  40%, 60% { transform: translate3d(4px, 0px, 0px); }
+}
+
+.pulse[data-v-5f0b9ba1] { animation: 2s ease 0s infinite normal none runnin=
+g pulse-data-v-5f0b9ba1; }
+
+@keyframes pulse-data-v-5f0b9ba1 {=20
+  0% { opacity: 0.7; }
+  50% { opacity: 0.4; }
+  100% { opacity: 0.7; }
+}
+
+.flash-once[data-v-5f0b9ba1] { animation: 3.5s ease 0s 1 normal none runnin=
+g flash-once; }
+
+@keyframes fade-up-data-v-5f0b9ba1 {=20
+  0% { transform: translate3d(0px, 10px, 0px); opacity: 0; }
+  100% { transform: translate3d(0px, 0px, 0px); opacity: 1; }
+}
+
+.fade-in[data-v-5f0b9ba1] { animation: 0.3s ease-in-out 0s 1 normal none ru=
+nning fade-in-data-v-5f0b9ba1; }
+
+@keyframes fade-in-data-v-5f0b9ba1 {=20
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.spin[data-v-5f0b9ba1] { animation-name: spin-data-v-5f0b9ba1; animation-du=
+ration: 2000ms; animation-iteration-count: infinite; animation-timing-funct=
+ion: linear; }
+
+@keyframes spin-data-v-5f0b9ba1 {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.bounceIn[data-v-5f0b9ba1] { animation-name: bounceIn-data-v-5f0b9ba1; tran=
+sform-origin: center bottom; animation-duration: 1s; animation-fill-mode: b=
+oth; animation-iteration-count: 1; }
+
+@keyframes bounceIn-data-v-5f0b9ba1 {=20
+  0%, 20%, 40%, 60%, 80%, 100% { transition-timing-function: cubic-bezier(0=
+.215, 0.61, 0.355, 1); }
+  0% { opacity: 1; transform: scale3d(0.8, 0.8, 0.8); }
+  20% { transform: scale3d(1.1, 1.1, 1.1); }
+  40% { transform: scale3d(0.9, 0.9, 0.9); }
+  60% { opacity: 1; transform: scale3d(1.03, 1.03, 1.03); }
+  80% { transform: scale3d(0.97, 0.97, 0.97); }
+  100% { opacity: 1; transform: scale3d(1, 1, 1); }
+}
+
+@keyframes dots-data-v-5f0b9ba1 {=20
+  0%, 20% { color: rgba(0, 0, 0, 0); text-shadow: rgba(0, 0, 0, 0) 0.25em 0=
+px 0px, rgba(0, 0, 0, 0) 0.5em 0px 0px; }
+  40% { color: rgb(132, 146, 166); text-shadow: rgba(0, 0, 0, 0) 0.25em 0px=
+ 0px, rgba(0, 0, 0, 0) 0.5em 0px 0px; }
+  60% { text-shadow: rgb(132, 146, 166) 0.25em 0px 0px, rgba(0, 0, 0, 0) 0.=
+5em 0px 0px; }
+  80%, 100% { text-shadow: rgb(132, 146, 166) 0.25em 0px 0px, rgb(132, 146,=
+ 166) 0.5em 0px 0px; }
+}
+
+@keyframes recording-data-v-5f0b9ba1 {=20
+  0% { box-shadow: rgba(173, 0, 0, 0.3) 0px 0px 5px 0px; }
+  65% { box-shadow: rgba(173, 0, 0, 0.3) 0px 0px 5px 5px; }
+  90% { box-shadow: rgba(173, 0, 0, 0) 0px 0px 5px 5px; }
+}
+
+body[data-v-5f0b9ba1] { margin: 0px; font-size: 100%; color: rgb(60, 72, 88=
+); }
+
+a[data-v-5f0b9ba1] { text-decoration: none; color: rgb(69, 200, 241); }
+
+h1[data-v-5f0b9ba1], h2[data-v-5f0b9ba1], h3[data-v-5f0b9ba1], h4[data-v-5f=
+0b9ba1] { margin-top: 0px; }
+
+svg[data-v-5f0b9ba1] { outline: none; }
+
+.container_selected_area[data-v-5f0b9ba1] { display: none; visibility: hidd=
+en; padding: 0px; position: fixed; inset: 0px; z-index: 2147483647; }
+
+.container_selected_area.active[data-v-5f0b9ba1] { visibility: visible; dis=
+play: block; }
+
+.container_selected_area .label[data-v-5f0b9ba1] { font-family: "Didact Got=
+hic Regular", sans-serif; font-size: 22px; text-align: center; padding-top:=
+ 15px; }
+
+.container_selected_area .area[data-v-5f0b9ba1] { display: none; position: =
+fixed; z-index: 2147483647; border: 1px solid rgb(30, 131, 255); background=
+: rgba(30, 131, 255, 0.1); box-sizing: border-box; }
+
+.container_selected_area .area.active[data-v-5f0b9ba1] { display: block; to=
+p: 0px; left: 0px; }
+
+.hide[data-v-5f0b9ba1] { display: none; }
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5958b199-326b-449d-8973-7bd6528e0f65@mhtml.blink
+
+@charset "utf-8";
+
+.chamada { max-width: 500px; height: 26rem; padding: 1rem; text-align: cent=
+er; font-size: 1.5rem; position: fixed; z-index: 1000; right: 10%; top: -25=
+.8rem; display: inline-block; background: rgb(34, 34, 34); color: rgb(255, =
+255, 255); border-bottom-left-radius: 8px; }
+
+.abre-chamada { cursor: pointer; position: absolute; width: 4rem; line-heig=
+ht: 4rem; right: -1rem; top: 24.5rem; background-color: rgb(34, 34, 34); co=
+lor: rgb(255, 255, 255); border-radius: 4px; }
+
+.chamada h2 { color: rgb(255, 255, 255); font-size: 2.2rem; }
+
+.chamada h3 { color: rgb(255, 255, 255); margin-top: 0px; font-size: 2rem; =
+font-weight: 300; }
+
+.chamada h2, .chamada p { margin-top: 0px; }
+
+.chamada a, .chamada a:link, .chamada a:visited { display: inline-block; bo=
+rder: 1px solid lime; border-radius: 0.6rem; padding: 1rem 2rem; color: lim=
+e; text-decoration: none; }
+
+.chamada a:hover { color: red; }
+
+.inner-chamada { position: relative; }
+
+@keyframes mostra {=20
+  0% { top: -24rem; }
+  100% { top: 0px; }
+}
+
+@keyframes esconde {=20
+  0% { top: 0px; }
+  100% { top: -24rem; }
+}
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Fira+Code&family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400;1,600&family=Roboto+Slab:wght@300;400;500;600&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 400=
+; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v21/uU=
+9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJV37Nv7g.woff2") format("woff2"); unicode=
+-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE=
+2F; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 400=
+; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v21/uU=
+9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVT7Nv7g.woff2") format("woff2"); unicode=
+-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 400=
+; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v21/uU=
+9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVz7Nv7g.woff2") format("woff2"); unicode=
+-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 400=
+; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v21/uU=
+9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVP7Nv7g.woff2") format("woff2"); unicode=
+-range: U+370-3FF; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 400=
+; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v21/uU=
+9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJV77Nv7g.woff2") format("woff2"); unicode=
+-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U=
++20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 400=
+; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v21/uU=
+9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVD7Ng.woff2") format("woff2"); unicode-r=
+ange: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+30=
+8, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+22=
+15, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 3=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2") format("woff2"); unicode-range: U+=
+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 3=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2") format("woff2"); unicode-range: U+=
+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 3=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2") format("woff2"); unicode-range: U+=
+1F00-1FFF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 3=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2") format("woff2"); unicode-range: U+=
+370-3FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 3=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2") format("woff2"); unicode-range: U+=
+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, =
+U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 3=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2") format("woff2"); unicode-range: U+=
+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB=
+, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 3=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2") format("woff2"); unicode-range: U+0-F=
+F, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U=
++2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF,=
+ U+FFFD; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2") format("woff2"); unicode-range: U+=
+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2") format("woff2"); unicode-range: U+=
+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2") format("woff2"); unicode-range: U+=
+1F00-1FFF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2") format("woff2"); unicode-range: U+=
+370-3FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2") format("woff2"); unicode-range: U+=
+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, =
+U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2") format("woff2"); unicode-range: U+=
+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB=
+, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2") format("woff2"); unicode-range: U+0-F=
+F, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U=
++2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF,=
+ U+FFFD; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2") format("woff2"); unicode-range: U+=
+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2") format("woff2"); unicode-range: U+=
+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2") format("woff2"); unicode-range: U+=
+1F00-1FFF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2") format("woff2"); unicode-range: U+=
+370-3FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2") format("woff2"); unicode-range: U+=
+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, =
+U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2") format("woff2"); unicode-range: U+=
+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB=
+, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2") format("woff2"); unicode-range: U+0-F=
+F, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U=
++2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF,=
+ U+FFFD; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2") format("woff2"); unicode-range: U+=
+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2") format("woff2"); unicode-range: U+=
+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2") format("woff2"); unicode-range: U+=
+1F00-1FFF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2") format("woff2"); unicode-range: U+=
+370-3FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2") format("woff2"); unicode-range: U+=
+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, =
+U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2") format("woff2"); unicode-range: U+=
+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB=
+, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2") format("woff2"); unicode-range: U+0-F=
+F, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U=
++2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF,=
+ U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7qsDJT9g.woff2") format("woff2"); un=
+icode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE=
+2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7jsDJT9g.woff2") format("woff2"); un=
+icode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7rsDJT9g.woff2") format("woff2"); un=
+icode-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7ksDJT9g.woff2") format("woff2"); un=
+icode-range: U+370-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7osDJT9g.woff2") format("woff2"); un=
+icode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1=
+B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDJT9g.woff2") format("woff2"); un=
+icode-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+20=
+20, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDI.woff2") format("woff2"); unico=
+de-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, =
+U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, =
+U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdh18Smxg.woff2") format("woff2")=
+; unicode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, =
+U+FE2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdo18Smxg.woff2") format("woff2")=
+; unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdg18Smxg.woff2") format("woff2")=
+; unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdv18Smxg.woff2") format("woff2")=
+; unicode-range: U+370-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdj18Smxg.woff2") format("woff2")=
+; unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1=
+AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;=
+ }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18Smxg.woff2") format("woff2")=
+; unicode-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, =
+U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18Q.woff2") format("woff2"); u=
+nicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+3=
+04, U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+22=
+12, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lqDY.woff2") format("woff2"); unico=
+de-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-=
+FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qPK7lqDY.woff2") format("woff2"); unico=
+de-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNK7lqDY.woff2") format("woff2"); unico=
+de-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qO67lqDY.woff2") format("woff2"); unico=
+de-range: U+370-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qN67lqDY.woff2") format("woff2"); unico=
+de-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0,=
+ U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7lqDY.woff2") format("woff2"); unico=
+de-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2020,=
+ U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2") format("woff2"); unicode-=
+range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+3=
+08, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2=
+215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhduz8A.woff2") format("woff2"); u=
+nicode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+F=
+E2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwkxduz8A.woff2") format("woff2"); u=
+nicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmxduz8A.woff2") format("woff2"); u=
+nicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlBduz8A.woff2") format("woff2"); u=
+nicode-range: U+370-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmBduz8A.woff2") format("woff2"); u=
+nicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-=
+1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRduz8A.woff2") format("woff2"); u=
+nicode-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2=
+020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2") format("woff2"); unic=
+ode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304,=
+ U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,=
+ U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://maujor.com/css/estilos.css?2128164102
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css2?family=3DRoboto+Slab:wght@40=
+0;500;600&family=3DSource+Sans+Pro:ital,wght@0,400;0,600;1,400;1,600&displa=
+y=3Dswap");
+
+@import url("prism-maujor.css");
+
+@import url("tema.css");
+
+@supports (font-size: clamp(1rem, 1vw, 1rem)) {
+  :root { --fs-sm: clamp(1.28rem, 0.97vw + 0.89rem, 2.25rem); --fs-base: cl=
+amp(1.6rem, 1.4vw + 1.04rem, 3rem); --fs-md: clamp(2rem, 2vw + 1.2rem, 4rem=
+); --fs-lg: clamp(2.5rem, 2.83vw + 1.37rem, 5.33rem); --fs-xl: clamp(3.13re=
+m, 3.98vw + 1.53rem, 7.11rem); }
+}
+
+@supports not (font-size: clamp(1rem, 1vw, 1rem)) {
+  :root { --fs-sm: 1.28rem; --fs-base: 1.6rem; --fs-md: 2rem; --fs-lg: 2.5r=
+em; --fs-xl: 3.13rem; }
+  @media screen and (min-width: 1400px) {
+  :root { --fs-sm: 2.25rem; --fs-base: 3rem; --fs-md: 4rem; --fs-lg: 5.33re=
+m; --fs-xl: 7.11rem; }
+}
+}
+
+.google-auto-placed { display: none !important; }
+
+.item { width: 100%; position: relative; }
+
+html, ol, ul { margin: 0px; padding: 0px; }
+
+html { font-size: 10px; box-sizing: border-box; scroll-behavior: smooth; }
+
+*, ::after, ::before { box-sizing: inherit; }
+
+body { margin: 0px; font: 100% / 1.6 "Source Sans Pro", sans-serif; backgro=
+und-color: var(--background); color: var(--foreground); }
+
+#google_translate_element { display: none; }
+
+#google_translate_element { display: none; }
+
+.goog-te-banner-frame { display: none !important; }
+
+body { position: static !important; top: 0px !important; }
+
+#contact #esconde { display: none; }
+
+.wrapper { display: grid; grid-template-rows: auto auto; grid-template-colu=
+mns: 1fr; }
+
+.nav { margin-top: 9rem; grid-area: 1 / 1 / 2 / 2; display: flex; flex-wrap=
+: wrap; justify-content: flex-start; }
+
+main { grid-area: 2 / 1 / 3 / 3; }
+
+.item h3 { text-align: center; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, =
+nav, section { display: block; }
+
+figure { text-align: center; }
+
+ol, ul { list-style: none; }
+
+blockquote::after, blockquote::before, q::after, q::before { content: none;=
+ }
+
+table { border-spacing: 0px; }
+
+.wrapper { width: 100%; max-width: 1400px; margin: 0px auto; }
+
+@media (max-width: 1400px) {
+  .wrapper { padding: 0px 2%; }
+}
+
+.add-bottom { width: 100%; max-width: 1200px; margin: 0px auto; }
+
+h3, h4, h5, h6 { margin: 0.7em 0px 0.4em; }
+
+.main { width: 100%; color: var(--foreground); font-size: var(--fs-sm); pad=
+ding-top: 5rem; }
+
+.nav { width: 100%; font-size: 1.4rem; text-transform: uppercase; border-bo=
+ttom: 2px dotted var(--um); padding-bottom: 3rem; }
+
+h1, h2, h3, h4, h5, h6 { font-family: "Roboto Slab", serif; font-weight: 60=
+0; line-height: 1; color: var(--sete); }
+
+h1 { font-size: var(--fs-lg); border-bottom: 1px solid var(--um); margin: 0=
+px; }
+
+h2 { font-size: var(--fs-md); margin: 0.7em 0px 0.2em; }
+
+h3 { font-size: var(--fs-base); }
+
+h4, h5, h6 { font-size: var(--fs-sm); }
+
+h1 > code, h2 > code, h3 > code, h4 > code, h5 > code, h6 > code { font-siz=
+e: 0.93em; }
+
+p { margin: 0.5em 0px 0.4em; }
+
+img { height: auto; max-width: 100% !important; }
+
+iframe { width: 100%; margin: 0px auto; }
+
+#skip-aqui { scroll-margin-top: 110px; }
+
+#skip a { position: absolute; left: -10000px; top: auto; width: 1px; height=
+: 1px; overflow: hidden; }
+
+#skip a:focus { left: 0px; width: auto; height: auto; display: block; text-=
+align: center; background: var(--g0); color: var(--foreground); padding: 0p=
+x 10px; border: 5px solid var(--sete); font-size: 18px; text-decoration: no=
+ne; }
+
+.header { width: 100%; position: fixed; z-index: 10; background-color: var(=
+--bg-hf); color: var(--fore-hf); border-bottom: 1px solid var(--um); }
+
+main a { text-decoration: none; color: var(--dois); }
+
+main a:visited { color: var(--dois); }
+
+main a:hover { color: var(--seis); text-decoration: underline; }
+
+.add-bottom a, .livros-maujor a { border: none; }
+
+.main .add-bottom a:focus, .main .add-bottom a:hover, .main .livros-maujor =
+a:focus, .main .livros-maujor a:hover { border: none !important; background=
+: 0px 0px !important; }
+
+.add-bottom a, .livros-maujor a, main a[href^=3D"http://maujor"]:focus, mai=
+n a[href^=3D"http://maujor"]:hover, main a[href^=3D"http://maujor"]:link, m=
+ain a[href^=3D"http://maujor"]:visited { background-image: none !important;=
+ padding-right: 0px !important; }
+
+main a[href^=3D"//"]::after, main a[href^=3D"http:"]::after, main a[href^=
+=3D"https:"]::after { content: " - Link"; position: absolute; left: -10000p=
+x; top: auto; }
+
+#esconde h4 { margin: 2em 0px 1.5em; padding-top: 2rem; border-top: 1px sol=
+id var(--um); }
+
+#esconde a { display: inline-block; margin-right: 2rem; }
+
+#esconde a:hover { opacity: 0.4; }
+
+.credito { border: 1px solid var(--um); padding: 10px 20px; margin: 20px 0p=
+x; background: var(--g1); }
+
+.visu-pubdate { font-size: var(--fs-sm); padding: 5px 0px; border-bottom: 1=
+px solid var(--um); display: inline-block; margin-bottom: 2rem; }
+
+.livros-maujor { text-align: center; border-top: 1px solid var(--um); paddi=
+ng-top: 2rem; margin-top: 4rem; }
+
+.livros-maujor .cf { text-align: left; margin-left: -10px; }
+
+.center, .fechar, .footer, .header { text-align: center; }
+
+.livros-maujor a img { margin: 16px 3px; box-shadow: 2px 2px 4px var(--nove=
+); }
+
+.livros-maujor h2 { margin: 0px 0px -0.4em; }
+
+.livros-maujor h2 + p { margin-bottom: 20px; }
+
+.nav li { border-bottom: 1px solid var(--nove); }
+
+.nav li:first-child { border-top: 1px solid var(--nove); }
+
+.nav a, nav a:active { display: block; background: var(--g1); color: var(--=
+dois); text-decoration: none; padding: 5px 0px 5px 8px; }
+
+.nav a:hover, nav a:focus { background: var(--background); }
+
+.links-secoes a, .nav h3 { font: 300 16px / 1 "Roboto Slab", serif; margin-=
+left: 6px; background: 0px 0px; }
+
+nav .unico h3 { border: none; padding: 0px; }
+
+nav .unico a { display: block; padding: 10px; }
+
+.nav .item-um h3 { padding-top: 0px; border-top: none; }
+
+.box { width: 100%; }
+
+.box li { position: relative; }
+
+.footer a, .footer a:link, .footer a:visited { color: var(--um); text-decor=
+ation: underline; }
+
+.footer a:hover { color: var(--seis); }
+
+.footer { background-color: var(--bg-hf); color: var(--fore-hf); border-top=
+: 1px solid var(--um); font-size: 18px; padding: 20px 0px; }
+
+.footer p { margin: 0px; }
+
+.social-buttons { display: inline-block; margin: 0px; }
+
+.social-buttons li { float: left; margin-bottom: 0px; }
+
+.social-buttons li a { font-size: 0px; line-height: 0; margin: 0px 16px; te=
+xt-indent: -99999px; display: block; width: 30px; height: 30px; background:=
+ url("../imagens/icon/icon-escuro.png"); }
+
+.social-buttons a.email { background-position: 0px 0px; }
+
+.social-buttons a.twitter { background-position: -47px 0px; }
+
+.social-buttons a.facebook { background-position: -92px 0px; }
+
+.social-buttons a.googleplus { background-position: -128px 0px; }
+
+.social-buttons a.youtube { background-position: -169px 0px; }
+
+.social-buttons a.rss { background-position: -209px 0px; }
+
+.social-buttons a.email:hover { background-position: -240px 0px; }
+
+.social-buttons a.twitter:hover { background-position: -287px 0px; }
+
+.social-buttons a.facebook:hover { background-position: -332px 0px; }
+
+.social-buttons a.googleplus:hover { background-position: -368px 0px; }
+
+.social-buttons a.youtube:hover { background-position: -409px 0px; }
+
+.social-buttons a.rss:hover { background-position: -449px 0px; }
+
+div.irtopo { background: var(--background); position: fixed; bottom: 25px; =
+right: 25px; border-radius: 50%; border: 1px solid var(--dois); }
+
+div.irtopo a { display: block; padding: 12px 8px; color: var(--dois) !impor=
+tant; text-decoration: none !important; }
+
+div.irtopo a:hover { color: var(--seis) !important; }
+
+.cf::after, .cf::before { content: " "; display: table; }
+
+.cf::after, .cf::before, .clear, .l { clear: both; }
+
+.titulo-codigo { font: 700 2.2rem "Fira Code", monospace; margin: 1rem 0px =
+-1.8rem; padding: 0.6rem 1.8rem; position: relative; color: var(--foregroun=
+d); background: var(--background); border: 2px solid var(--nove); border-to=
+p-left-radius: 0.3em; border-top-right-radius: 0.3em; }
+
+.main ol, .main ul, ol.bullet, ul.bullet { padding-left: 40px; }
+
+.cor-um, .dest { color: var(--sete); }
+
+.cor-dois { color: rgb(13, 126, 239); }
+
+.alerta, .cor-tres { color: rgb(232, 60, 227); }
+
+.cor-quatro { color: rgb(255, 92, 0); }
+
+.cor-cinco { color: rgb(221, 0, 0); }
+
+.img-left { float: left; margin-right: 5px; }
+
+.img-right { float: right; margin-left: 5px; }
+
+.fleft { float: left; }
+
+.fright { float: right; }
+
+a img, img { border: none; }
+
+ol.bullet { list-style: decimal; }
+
+ul.bullet { list-style: disc; }
+
+.main ol { list-style: decimal; }
+
+.main ul { list-style: disc; }
+
+main ol.sem-bullet, main ul.sem-bullet { list-style: none; padding-left: 20=
+px; }
+
+main ol.sem-bullet a, main ul.sem-bullet a { padding-left: 0px; }
+
+.boxtut { display: block; color: var(--oito); border: 1px solid var(--um); =
+font-size: var(--fs-sm); padding: 1rem 2rem; margin: 3rem 0px; border-radiu=
+s: 1rem; background: var(--g1); }
+
+pre.boxtut { display: block; margin-top: 1rem; padding-top: 1rem; overflow:=
+ auto; }
+
+blockquote, q { quotes: none; background: url(../imagens/blockquote-quote.p=
+ng) 10px 10px no-repeat var(--g1); padding: 15px 40px; margin: 15px 0px; bo=
+rder: 1px solid var(--dois); border-radius: 4px; }
+
+.botaomaujor { display: inline-block; text-decoration: none; border: 1px so=
+lid var(--dois); border-radius: 0.4em; padding: 0.5em 1em; color: var(--for=
+eground) !important; background-color: var(--background) !important; }
+
+.botaomaujor:hover { cursor: pointer; text-decoration: none; color: var(--g=
+0) !important; background-color: var(--g4) !important; }
+
+.botaomaujor, .botaomaujor:hover, .social-buttons a { transition: all 0.5s =
+ease 0s; }
+
+table, table.borda { border-collapse: collapse; }
+
+table.borda tr td, table.borda tr th { padding: 1px 8px; border: 1px solid =
+var(--tres); }
+
+dl { margin: 20px 0px; }
+
+dt { margin-top: 10px; font-size: var(--fs-base); }
+
+dd { margin-left: 1.6em; font-size: var(--fs-sm); }
+
+.b, .fechar, .lg, .link-titulo, .md, .sm, .xl { font-weight: 700; }
+
+code, kbd, samp { font: italic 1em monospace; margin: 0px 4px; border-radiu=
+s: 4px; }
+
+.l { float: left; margin-left: 2px; }
+
+.r { float: right; margin-right: 2px; }
+
+.left { float: left; margin: 0px 1em 1em 0px; }
+
+.right { float: right; margin: 0px 0px 1em 1em; }
+
+.sm { font-size: var(--fs-sm); }
+
+.md { font-size: var(--fs-base); }
+
+.lg { font-size: var(--fs-md); }
+
+.xl { font-size: var(--fs-lg); }
+
+.nav li:last-child { border-bottom: none; }
+
+.nav li:first-child { border-top: none; }
+
+.item { height: 5rem; }
+
+.item ul { display: none; z-index: 10; border: 1px solid var(--foreground);=
+ }
+
+.item:hover ul { display: block; position: absolute; left: 0.6rem; top: 5re=
+m; width: calc(100% - 1.2rem); }
+
+.item h3::after { content: "=E2=96=BC"; color: var(--g3); position: absolut=
+e; right: 0.5rem; top: 1rem; }
+
+.item h3 { color: var(--g3); position: relative; border: 1px solid var(--um=
+); border-radius: 0.6rem; padding: 10px; margin-right: 6px; cursor: pointer=
+; }
+
+@media (min-width: 600px) {
+  .item { width: 50%; }
+}
+
+@media (min-width: 800px) {
+  .item { width: 33.333%; }
+}
+
+@media (min-width: 1000px) {
+  .item { width: 25%; }
+}
+
+@media (min-width: 1200px) {
+  .item { width: 20%; }
+}
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;600&family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400;1,600&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2") format("woff2"); unicode-range: U+=
+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2") format("woff2"); unicode-range: U+=
+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2") format("woff2"); unicode-range: U+=
+1F00-1FFF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2") format("woff2"); unicode-range: U+=
+370-3FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2") format("woff2"); unicode-range: U+=
+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, =
+U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2") format("woff2"); unicode-range: U+=
+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB=
+, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 4=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2") format("woff2"); unicode-range: U+0-F=
+F, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U=
++2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF,=
+ U+FFFD; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2") format("woff2"); unicode-range: U+=
+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2") format("woff2"); unicode-range: U+=
+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2") format("woff2"); unicode-range: U+=
+1F00-1FFF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2") format("woff2"); unicode-range: U+=
+370-3FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2") format("woff2"); unicode-range: U+=
+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, =
+U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2") format("woff2"); unicode-range: U+=
+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB=
+, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 5=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2") format("woff2"); unicode-range: U+0-F=
+F, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U=
++2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF,=
+ U+FFFD; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2") format("woff2"); unicode-range: U+=
+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2") format("woff2"); unicode-range: U+=
+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2") format("woff2"); unicode-range: U+=
+1F00-1FFF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2") format("woff2"); unicode-range: U+=
+370-3FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2") format("woff2"); unicode-range: U+=
+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, =
+U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2") format("woff2"); unicode-range: U+=
+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB=
+, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Roboto Slab"; font-style: normal; font-weight: 6=
+00; font-display: swap; src: url("https://fonts.gstatic.com/s/robotoslab/v2=
+5/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2") format("woff2"); unicode-range: U+0-F=
+F, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U=
++2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF,=
+ U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7qsDJT9g.woff2") format("woff2"); un=
+icode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE=
+2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7jsDJT9g.woff2") format("woff2"); un=
+icode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7rsDJT9g.woff2") format("woff2"); un=
+icode-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7ksDJT9g.woff2") format("woff2"); un=
+icode-range: U+370-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7osDJT9g.woff2") format("woff2"); un=
+icode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1=
+B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDJT9g.woff2") format("woff2"); un=
+icode-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+20=
+20, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDI.woff2") format("woff2"); unico=
+de-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, =
+U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, =
+U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdh18Smxg.woff2") format("woff2")=
+; unicode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, =
+U+FE2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdo18Smxg.woff2") format("woff2")=
+; unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdg18Smxg.woff2") format("woff2")=
+; unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdv18Smxg.woff2") format("woff2")=
+; unicode-range: U+370-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdj18Smxg.woff2") format("woff2")=
+; unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1=
+AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;=
+ }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18Smxg.woff2") format("woff2")=
+; unicode-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, =
+U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18Q.woff2") format("woff2"); u=
+nicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+3=
+04, U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+22=
+12, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lqDY.woff2") format("woff2"); unico=
+de-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-=
+FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qPK7lqDY.woff2") format("woff2"); unico=
+de-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNK7lqDY.woff2") format("woff2"); unico=
+de-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qO67lqDY.woff2") format("woff2"); unico=
+de-range: U+370-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qN67lqDY.woff2") format("woff2"); unico=
+de-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0,=
+ U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7lqDY.woff2") format("woff2"); unico=
+de-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2020,=
+ U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2") format("woff2"); unicode-=
+range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+3=
+08, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2=
+215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhduz8A.woff2") format("woff2"); u=
+nicode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+F=
+E2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwkxduz8A.woff2") format("woff2"); u=
+nicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmxduz8A.woff2") format("woff2"); u=
+nicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlBduz8A.woff2") format("woff2"); u=
+nicode-range: U+370-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmBduz8A.woff2") format("woff2"); u=
+nicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-=
+1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRduz8A.woff2") format("woff2"); u=
+nicode-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2=
+020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2") format("woff2"); unic=
+ode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304,=
+ U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,=
+ U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://maujor.com/css/prism-maujor.css
+
+@charset "utf-8";
+
+code[class*=3D"language-"], pre[class*=3D"language-"] { color: var(--foregr=
+ound); background: none; font-style: ; font-variant-ligatures: ; font-varia=
+nt-caps: ; font-variant-numeric: ; font-variant-east-asian: ; font-variant-=
+alternates: ; font-weight: ; font-stretch: ; font-size: ; font-family: ; fo=
+nt-optical-sizing: ; font-kerning: ; font-feature-settings: ; font-variatio=
+n-settings: ; text-align: left; white-space: pre; word-spacing: normal; wor=
+d-break: normal; overflow-wrap: normal; line-height: 1.3; tab-size: 4; hyph=
+ens: none; }
+
+pre[class*=3D"language-"] { padding: 1em; margin: 0.5em 0px; overflow: auto=
+; border-radius: 0.3em; }
+
+:not(pre) > code[class*=3D"language-"], pre[class*=3D"language-"] { backgro=
+und: var(--g0); border: 1px solid var(--nove); }
+
+:not(pre) > code[class*=3D"language-"] { padding: 0.1em; border-radius: 0.3=
+em; white-space: normal; }
+
+.token.comment, .token.prolog, .token.doctype, .token.cdata { color: var(--=
+token-comment); }
+
+.token.punctuation { color: var(--token-punctuation); }
+
+.namespace { opacity: 0.7; }
+
+.token.property, .token.tag, .token.constant, .token.symbol, .token.deleted=
+ { color: Var(--token-property); }
+
+.token.boolean, .token.number { color: var(--token-number); }
+
+.token.selector, .token.attr-name, .token.string, .token.char, .token.built=
+in, .token.inserted { color: var(--token-selector); }
+
+.token.operator, .token.entity, .token.url, .language-css .token.string, .s=
+tyle .token.string, .token.variable { color: var(--foreground); }
+
+.token.atrule, .token.attr-value, .token.function { color: var(--token-func=
+tion); }
+
+.token.keyword { color: var(--token-keyword); }
+
+.token.regex, .token.important { color: var(--token-regex); }
+
+.token.important, .token.bold { font-weight: bold; }
+
+.token.italic { font-style: italic; }
+
+.token.entity { cursor: help; }
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://maujor.com/css/tema.css
+
+@charset "utf-8";
+
+.light { --background: #f8f8f2; --foreground: #282a36; --bg-hf: #f8f8f2; --=
+fore-hf: #282a36; --um: #44475a; --dois: #255fb0; --tres: #ffb86c; --quatro=
+: #50fa7b; --cinco: #6272a4; --seis: #6704f1; --sete: #004177; --oito: #388=
+0d2; --nove: #cccccc; --g0: #f5f5f5; --g1: #eeeeee; --g2: #444444; --g3: #3=
+33333; --g4: #000000; --token-comment: #555555; --token-puntuaction: #00000=
+0; --token-property: #600ce8; --token-number: #032b2b; --token-selector: #9=
+90000; --token-operator: #000000; --token-function: #005500; --token-keywor=
+d: #990000; --token-regex: #412804; }
+
+:root { --background: #282a36; --foreground: #f8f8f2; --bg-hf: #f8f8f2; --f=
+ore-hf: #282a36; --um: #44475a; --dois: #8be9fd; --tres: #ffb86c; --quatro:=
+ #50fa7b; --cinco: #6272a4; --seis: #bd93f9; --sete: #ff5555; --oito: #f1fa=
+8c; --nove: #cccccc; --g0: #000000; --g1: #333333; --g2: #444444; --g3: #ee=
+eeee; --g4: #f5f5f5; --token-comment: #cccccc; --token-puntuaction: #ffffdd=
+; --token-property: #ff99ff; --token-number: #aeffff; --token-selector: #a6=
+e22e; --token-operator: #ffffdd; --token-function: #e6db74; --token-keyword=
+: #66d9ef; --token-regex: #ffa71f; }
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://maujor.com/imagens/icon/icon-escuro.png
+
+iVBORw0KGgoAAAANSUhEUgAAAeMAAAHZCAYAAAC1llPzAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAXDAAAFwwBigKOZgAAAB90RVh0U29mdHdhcmUATWFjcm9tZWRpYSBGaXJld29ya3MgOLVo0ngA
+ABLrSURBVHic7d0xbBxnfsbhvwU3vk4pXMXAHV35ijR0cFdGgFQkCOCKQgzkUqSg+jMSKkiZRk6Q
+9FKbA2KElZsLDAlQewnC5opcZcLAuXIRlgZyByjFzKcdDmeXu+TOvpT4PAAhilwul8v55jcz+83w
+neIm2auqw6o66N9vzvp/P66q010/qBvobv9ve172+vfPpm/+Znv16tXSz718+XKHj4Tvv/ty1acv
+Hb/vvf/JrRu/E8/Z1sbve+9/cvUHtiP37t1b63bvzvw4WN9BVT2txYI6NPWx2+xJVd2vqg+re97+
+vboNlZPQ47nbvw1XJm/lhgFLGb/ru1Hj9/vvvpx5/Irxm+R+dQvkTdIW0FWGW/nDBXruED2rbg/k
+flXt998vucfRVsTtZz+tbsXyon//1u0N3TKx8btiT31r43eGvU/jd8JtjvHd6n4J+/3/T6vquC4+
+8eMtpjk8WfN2u9jC3qvFYba71Q2Y4WGl0/7/L6rq81o8X22Bftx/fE4n/fc97B/Lcf/xJ9X9Po+r
+G/BH/WN+0X/ucc07sNoKba+65234/V/0j8sec++SQ76X2Wj8znw40/jdjPE7ocX4sBYL9badVPfE
+zuV+/z02eZLuV7fg7Y0+fljdY33W3+agul/Acc1nf+JxNC9qt4c+96vbwj+txYK/V91z1ZaP9vyk
+HVc3WKqqHlT3uzusbll4Wt1zd7+65+ykut/ls9r9FniLxkH/+I5riyu7Pmg7Gb8zBc343e5jMX63
+a9bxO/RuVf1PVX00x50P/HVV/XSG+71bi1/cozW/pi2wU1upe9VtgbWFpG0RzWl/yWN5WBcH85z2
+qup5//0eDD5+Ut1z+7y6x3lU01uIZ6N/59YGczuk1Abyo6r6urqfp+0F3BT7/dtBdSvLbSxby2d3
+bc/TqvpRVX2z5fs1frfH+J3fHOP3tTs1f4irqn4y0/22QzGHtXyAjj1Z43bt86f97Zdt+c6lHRrZ
+5SHNdshoahLF8OhGOwy2X1X/PXhrh+qOBh9rK4A5nNZiqzk9cepFLQ7vHU88prEWlKMVt7lp5tiY
+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
+9T3aawtH1W3FrPuDH1e3NX1bD20NDX/+dRbwdi3hXe+JDB/ncKV9vxbLQbvUXnst52zw/tNaPOY2
+yWVbv/tl58iOPz51mstwr+Bs4jFdtqIwfm834/f6kuP3tXerO0/411X1R+t+0YZ+XVX/NNN9v+jf
+2nH+dm7XcEbc8By2dvvkuX83TbtMXjsE9LwWf01l+By1leZ+dSvCXT5/bSFvkzqGl8I76t/a4G2v
+oQ3/X7X4Q+HVf+y0tjeY26HSp3V+K37qdIfx89aW1WXP52WD2fi93Yzf60uO39faYeq5BtuutF9M
+O9wxdVUXlmvnZrYF/n6dPxm/bf2d1PQ0/7mdVbeC2a/zW6K15P3xv+PPtwtDbHOvqv2x9naloWX3
+Pb7g/Pi2j+vyawi/9t77n1QZv7ed8Xt9kfE7lD7Rfy5v0uCd2nJKvE7YZlq2PZT2GNqVcNJ/rL0N
+lnbYajioV219Did7jPeytm18FaGr3ObWHHbtNySmGL+bM36vaLAcRsfvO1f9QrZmvy5eEaftJbxJ
+KyVm8urV8j/A9PLlyx0+Er7/7svxhzYavys2QHhL3bt3b63bvbNqoAMA83vbLvoBAG8cMQaAMDEG
+gDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaA
+MDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAw
+MQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAx
+BoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEG
+gDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaA
+MDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAw
+MQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAx
+BoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEG
+gDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaA
+MDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAw
+MQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAx
+BoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEG
+gDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaA
+MDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAw
+MQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAx
+BoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEG
+gDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaA
+MDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAw
+MQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAx
+BoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEG
+gDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaA
+MDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAw
+MQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAx
+BoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEG
+gDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaA
+MDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAw
+MQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAx
+BoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEG
+gDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaA
+MDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAw
+MQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgDAxBoAwMQaAMDEGgLD/
+B926xQX0ZWfDAAAAAElFTkSuQmCC
+
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://maujor.com/imagens/icon/share-twitter.png
+
+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
+
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://maujor.com/imagens/icon/share-facebook.png
+
+iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAYAAACoPemuAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAK8AAACvABQqw0mAAAAB90RVh0U29mdHdhcmUATWFjcm9tZWRpYSBGaXJld29ya3MgOLVo0ngA
+AAQ3SURBVFiFxZhdbFRFFMd/Z+5uaSmlKChhd2u0CQFrI0Zrqj6RQHxEeYBoqEZTdvED1Ogb0TQ1
++kpCJBjaEqOR+IQv4IskPpgIJgQIhDalmhjotqi0C7ZL6XZ35vhAu7a7d9mvVv5vd87Mmd+dOTPn
+3CtUoODR4U3WyhZBnlPYIEITsGLWnFTlmsCQijvjGX5KdzZdLHcOKbln340Go6mYKJ2IPF7WLKoD
+CkfdTLCHvWuTiwPWpQETie8TNR8jPFgWUB4g4wqfuZHQIbolUznYkZGNxvCdwFNVAeXyKRec0VfZ
+HblSNph3JL4NwzGQFYX6VEk3ibDLRiMn/MzGt7Fv9DUMx5cMCkCkAfje9I52+JpzG2ZX6jhIYMmg
+FkgzKNttLHKyMNiXw+s9T87Nvk3FqgsIoeUejTXCVEaZscrf045kWgvBJa2TZ9kTHswH69KAiYye
+rTTQBdjRXMc7LfW0PxwkaPLDd/upBCeuTvujoeddPNw+d1qz22Ui8X2CqQgqaISvN69iZ3NdUfjC
+NnnahEbfdXAQ5oL/m+v1guyvBArg07aGolClSIRP6LvRkAUzKfsWyJpKnK1b7vF+a33VUHfJWG1c
+KgqzW3k3zVTma0dzLTU+8XRrxnF44DbDSZttuzieLoGNTuBAIHh0eJNzZea+eWp/qMa3/aUfE/zy
+50z5DkVagn3XW411srVSKICmFV5e2+VEujKoWVnrthhRaa8GrLEmP3lcStwzPxeVCM8bFTZW48Tz
+ic1EylXjEhU2GFFCVXnxc1zleEEjBqgq/SyNpEG8npEUgv/RylHXMw3sbVl4Z62sMXnbmbLKVCZ/
+3TafHKP/ZknxlwoAk8DqUnrXecIDy3wrpQVa5gnLcmgV+GPS+g/Ik04aFUZL7F2VriWt7yr6SZG4
+EWWweNfqNfRP6VeIKFeMor8uIU9Wg7dKB1PhtAR7h590mJK+++oCQm1O7Jzetob1jQuL3d7BKfaf
+nVjQdiejTNvSttKoaQ2ko02XTE/8soi0FhtwJ6PcyYkTv7mmrXKz0ktWdSAdW9c/d8S+qszL4ktF
++2C2HnO13hHQsfuLBCjjLlXTC3MV7OvrbqvK5/cVClDonvuFkL0t3UjokCoX7h+UnnOrQofnnv+7
+xrsl48TuRHXCd+TSYiWdkw52SjY1LMwv0Ud+R+gAra6gKg8qg+gr878p88EAG42cUMyb/w+cZlTl
+Dbu76Ydci29GdtHQtyjbUZ1cOiadQPRlFwsf8zMXLBVsLHLSQpui5xedCT1nrbb5rVRRMABikSEX
+D7er4wOU8UVAGlPlPdcYbuftpt/u1bN4cdUtGbcnfNDOBB5V1Y8U7S8bR/Wy4j60qeBjLhb+Yv7p
+K6TSfzXtXZt0cAA4EOy5/oRVt1UML1xN2hfrA6xcXesZgMS0dcm0/QvlZ1XOuICcojM8UO7L/As9
+e56RnuzmbAAAAABJRU5ErkJggg==
+
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://maujor.com/imagens/icon/share-linkedin.png
+
+iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAK8AAACvABQqw0mAAAAB90RVh0U29mdHdhcmUATWFjcm9tZWRpYSBGaXJld29ya3MgOLVo0ngA
+AAQrSURBVFiFzZlNbFRVGIaf78ydAtJWKZJQCpbYCI0hpaSNsjAxICzQDSzAH1i4IBpCMSZqqERt
+JiICxgWBEhsTFgoJf0ZMlAWQbnSBpCilaCxRCdJCI9KC/JR2Zu7rokyZ6W2ZDsxMfVZzfu53nuSe
+Oec75xr3w/79IX6vfMqZFghqzKgElSIrBMB0A9lFQbvBSd9oprfqBBHzMx3KMur9YdsMC8fXGrYK
+KMvoWalDZrsFjdTP7ciu4Ec/TbGQ22jwKlhBRmIB1C9sl7zo+7xd+88DC7rNra8gbces5MHEhqIr
+QJ1fX733Xr1GFmxqCVuPt9Ow1dkVS0WiSSXRdbxeGx2ufXjBhpaHbLx30MyW5FIugdBh9caWE6m9
+NbQtKNjUErZu75t8ySUQOqZe7wUic/qT693Qjtbj7cy3HIBhi2xCfFuwPgm35fRKpN350xoGXy/5
+G6r3JYp3BTf9OtlZ9DeMR4d7btmsh9m+eBpmRt2RTr4+ey03glK3H47NTixBg6/YXP+mkeQAti+e
+RmlhmKkTPbYtmpYbOQCzEot6kURxQHBz6/SBRXhklBIjJ2rJ8Vez+cxjcEfQUF26HeKNoxfpuhmj
+83qUuiOduTXECoz4mgG3Bjk3vvU8ZtNzPGqmdPqPt5c7xrU9/T+UAyjjzydqPGdaMJre8fVVKeXQ
+ltP3bCsvLuCd+VN4vqKI0olh/r4V4/Af/7L1+GXOXUtZi0fEYQs9GbXZnvPPzSzk4NJyiseFBuum
+F4V5rXoyLz85ieWHznP03PW0cSRqnIlZWfbjq2UzU+SSKSpwHFhaTnlx+qzNjNkOVJptwaKCwA4a
+aF8/f0r6QLJSD6MwS16D9MfFB993seeXqwCsmvMIkWemUhC6O5mWVBQD6ZYrFXnZlgNo+KGLT368
+PFjeenzg98fP3n1ZZaMc2iFuZFcPvjxzNVD3RVtPSjk0qu3IrjuwS1nyGuTSjWBy3HUzlnkg0yUn
+42wWnHKCRLsz0TLWIiNhuBbnG81jLTISvmLNjt6qE6ALYy0TRH/RN++kI2K+sD1jrTMUyfYQMd8B
+CBpBo9vB84HUp7jfCImMun5uh7BdYyqVhOBz3pvXCcmHpk/PlLj+ePu9ziX5QVd8L1YZODTx1pxu
+TOvGzOsOJrcm+VIpJe3w66v3SjTlX2sAocb4u1UHkusCeZEq2tdKOpQ/rTvjwnfq7XlzaH0wcVux
+Iq7bsZVCh/NiBkh8q97oCiILAhv28JllpPaWJsWWCj7LuRxq1O3uZcPdbMFoLjA3nXoRsx05+Hdf
+NtnaoXMuMH66KP6G6n2+wpWSdiL1PbCW1Cdphx8OVaaTg0wv0Tf+XGaeqzO0EmxGhmYXJNutuN+Y
+WIRHw/2dOBvkmHCq1mELJWrMmI0oGzzfDGTpHYKzhmvxFWumb97J+/kM8R9whH3paCDxjQAAAABJ
+RU5ErkJggg==
+
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://maujor.com/imagens/icon/share-reddit.png
+
+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
+
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/html
+Content-ID: <frame-5516D21FB79547FE9CD975AFE691B010@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://iidlbfbakcgbmmbcpfbhmiknkdacikdm/audio-devices.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+=20
+</head>
+<body style=3D"margin: 0">
+
+
+
+</body></html>
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/html
+Content-ID: <frame-3B8D81CFFDF87D8949F353517D42CC96@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://noop.style/embedVideo
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-45d01c=
+0b-2f15-4965-b56e-95ed2af2e424@mhtml.blink" />
+
+</head>
+<body inject_svd=3D"true">
+
+
+<div id=3D"popupMenu"></div></body></html>
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-45d01c0b-2f15-4965-b56e-95ed2af2e424@mhtml.blink
+
+@charset "utf-8";
+
+html { box-sizing: border-box; }
+
+*, ::before, ::after { box-sizing: inherit; }
+
+.container { width: 100%; padding-right: 15px; padding-left: 15px; margin-r=
+ight: auto; margin-left: auto; }
+
+@media (min-width: 576px) {
+  .container { max-width: 540px; }
+}
+
+@media (min-width: 768px) {
+  .container { max-width: 720px; }
+}
+
+@media (min-width: 992px) {
+  .container { max-width: 960px; }
+}
+
+@media (min-width: 1200px) {
+  .container { max-width: 1140px; }
+}
+
+.container-fluid { width: 100%; padding-right: 15px; padding-left: 15px; ma=
+rgin-right: auto; margin-left: auto; }
+
+.row { display: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -1=
+5px; }
+
+.no-gutters { margin-right: 0px; margin-left: 0px; }
+
+.no-gutters > .col, .no-gutters > [class*=3D"col-"] { padding-right: 0px; p=
+adding-left: 0px; }
+
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .co=
+l-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .=
+col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10=
+, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col=
+-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .c=
+ol-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg=
+-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-=
+lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1,=
+ .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-=
+8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { p=
+osition: relative; width: 100%; min-height: 1px; padding-right: 15px; paddi=
+ng-left: 15px; }
+
+.col { flex-basis: 0px; flex-grow: 1; max-width: 100%; }
+
+.col-auto { flex: 0 0 auto; width: auto; max-width: none; }
+
+.col-1 { flex: 0 0 8.33333%; max-width: 8.33333%; }
+
+.col-2 { flex: 0 0 16.6667%; max-width: 16.6667%; }
+
+.col-3 { flex: 0 0 25%; max-width: 25%; }
+
+.col-4 { flex: 0 0 33.3333%; max-width: 33.3333%; }
+
+.col-5 { flex: 0 0 41.6667%; max-width: 41.6667%; }
+
+.col-6 { flex: 0 0 50%; max-width: 50%; }
+
+.col-7 { flex: 0 0 58.3333%; max-width: 58.3333%; }
+
+.col-8 { flex: 0 0 66.6667%; max-width: 66.6667%; }
+
+.col-9 { flex: 0 0 75%; max-width: 75%; }
+
+.col-10 { flex: 0 0 83.3333%; max-width: 83.3333%; }
+
+.col-11 { flex: 0 0 91.6667%; max-width: 91.6667%; }
+
+.col-12 { flex: 0 0 100%; max-width: 100%; }
+
+.order-first { order: -1; }
+
+.order-last { order: 13; }
+
+.order-0 { order: 0; }
+
+.order-1 { order: 1; }
+
+.order-2 { order: 2; }
+
+.order-3 { order: 3; }
+
+.order-4 { order: 4; }
+
+.order-5 { order: 5; }
+
+.order-6 { order: 6; }
+
+.order-7 { order: 7; }
+
+.order-8 { order: 8; }
+
+.order-9 { order: 9; }
+
+.order-10 { order: 10; }
+
+.order-11 { order: 11; }
+
+.order-12 { order: 12; }
+
+.offset-1 { margin-left: 8.33333%; }
+
+.offset-2 { margin-left: 16.6667%; }
+
+.offset-3 { margin-left: 25%; }
+
+.offset-4 { margin-left: 33.3333%; }
+
+.offset-5 { margin-left: 41.6667%; }
+
+.offset-6 { margin-left: 50%; }
+
+.offset-7 { margin-left: 58.3333%; }
+
+.offset-8 { margin-left: 66.6667%; }
+
+.offset-9 { margin-left: 75%; }
+
+.offset-10 { margin-left: 83.3333%; }
+
+.offset-11 { margin-left: 91.6667%; }
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/html
+Content-ID: <frame-E564B157BE7F48612F219DF2A7EBBE7A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://remove.video/cache
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-6929b1=
+d8-964d-497d-a053-e086610ec536@mhtml.blink" />
+
+</head>
+<body inject_svd=3D"true">
+
+
+<div id=3D"popupMenu"></div></body></html>
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6929b1d8-964d-497d-a053-e086610ec536@mhtml.blink
+
+@charset "utf-8";
+
+html { box-sizing: border-box; }
+
+*, ::before, ::after { box-sizing: inherit; }
+
+.container { width: 100%; padding-right: 15px; padding-left: 15px; margin-r=
+ight: auto; margin-left: auto; }
+
+@media (min-width: 576px) {
+  .container { max-width: 540px; }
+}
+
+@media (min-width: 768px) {
+  .container { max-width: 720px; }
+}
+
+@media (min-width: 992px) {
+  .container { max-width: 960px; }
+}
+
+@media (min-width: 1200px) {
+  .container { max-width: 1140px; }
+}
+
+.container-fluid { width: 100%; padding-right: 15px; padding-left: 15px; ma=
+rgin-right: auto; margin-left: auto; }
+
+.row { display: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -1=
+5px; }
+
+.no-gutters { margin-right: 0px; margin-left: 0px; }
+
+.no-gutters > .col, .no-gutters > [class*=3D"col-"] { padding-right: 0px; p=
+adding-left: 0px; }
+
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .co=
+l-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .=
+col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10=
+, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col=
+-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .c=
+ol-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg=
+-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-=
+lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1,=
+ .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-=
+8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { p=
+osition: relative; width: 100%; min-height: 1px; padding-right: 15px; paddi=
+ng-left: 15px; }
+
+.col { flex-basis: 0px; flex-grow: 1; max-width: 100%; }
+
+.col-auto { flex: 0 0 auto; width: auto; max-width: none; }
+
+.col-1 { flex: 0 0 8.33333%; max-width: 8.33333%; }
+
+.col-2 { flex: 0 0 16.6667%; max-width: 16.6667%; }
+
+.col-3 { flex: 0 0 25%; max-width: 25%; }
+
+.col-4 { flex: 0 0 33.3333%; max-width: 33.3333%; }
+
+.col-5 { flex: 0 0 41.6667%; max-width: 41.6667%; }
+
+.col-6 { flex: 0 0 50%; max-width: 50%; }
+
+.col-7 { flex: 0 0 58.3333%; max-width: 58.3333%; }
+
+.col-8 { flex: 0 0 66.6667%; max-width: 66.6667%; }
+
+.col-9 { flex: 0 0 75%; max-width: 75%; }
+
+.col-10 { flex: 0 0 83.3333%; max-width: 83.3333%; }
+
+.col-11 { flex: 0 0 91.6667%; max-width: 91.6667%; }
+
+.col-12 { flex: 0 0 100%; max-width: 100%; }
+
+.order-first { order: -1; }
+
+.order-last { order: 13; }
+
+.order-0 { order: 0; }
+
+.order-1 { order: 1; }
+
+.order-2 { order: 2; }
+
+.order-3 { order: 3; }
+
+.order-4 { order: 4; }
+
+.order-5 { order: 5; }
+
+.order-6 { order: 6; }
+
+.order-7 { order: 7; }
+
+.order-8 { order: 8; }
+
+.order-9 { order: 9; }
+
+.order-10 { order: 10; }
+
+.order-11 { order: 11; }
+
+.order-12 { order: 12; }
+
+.offset-1 { margin-left: 8.33333%; }
+
+.offset-2 { margin-left: 16.6667%; }
+
+.offset-3 { margin-left: 25%; }
+
+.offset-4 { margin-left: 33.3333%; }
+
+.offset-5 { margin-left: 41.6667%; }
+
+.offset-6 { margin-left: 50%; }
+
+.offset-7 { margin-left: 58.3333%; }
+
+.offset-8 { margin-left: 66.6667%; }
+
+.offset-9 { margin-left: 75%; }
+
+.offset-10 { margin-left: 83.3333%; }
+
+.offset-11 { margin-left: 91.6667%; }
+------MultipartBoundary--6pGanDlgJCm7uIKwYEyb32y838imkYYxxyAzVXn92G------
