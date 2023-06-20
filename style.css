@@ -1,6 +1,6 @@
 li, ol{
     background: grey;
-    width: 100px;
+    width: 120px;
     list-style: none;
     list-style-position: inside;
 }
@@ -9,6 +9,8 @@ li{
     list-style-type:none;
     display: inline-block;
     position: relative;
+    width: 150px;
+    height: 18px;
 }
 li::after > ol{
     content: " \00BB";
@@ -18,7 +20,7 @@ ol{
     position: absolute;
     left: 0px;
     top: 22px;
-    max-width: 80px;
+    max-width: 120px;
 }
 ol li{
     margin-left: -40px;
@@ -33,10 +35,6 @@ li:hover{
 }
 li:hover > ol{
     display: block;
-}
-
-.containerImg{
-
 }
 img{
     position: absolute;
